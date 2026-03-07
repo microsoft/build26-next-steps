@@ -2,6 +2,21 @@
 
 Thanks for creating content for Build! You can follow this guidance yourself if you want to do it manually. However, we **highly recommend** using GitHub Copilot to work on your behalf. It will both make this process easier for you and improve the outcome.
 
+## ⚠️ Before You Start
+
+**Add your session content to the repo first.** The agent works best when it can read your existing materials and use them to fill out the README — instead of asking you a dozen questions from scratch.
+
+What to add:
+- **Markdown files** — session abstracts, lab instructions, documentation, notes
+- **Source code** — demo code, sample applications, starter projects
+- **Data files** — datasets or configuration files used in your session
+
+What **not** to add:
+- ❌ Large binary files (PowerPoint decks, Word documents, videos, recordings)
+- If you only have a PowerPoint, use M365 Copilot to extract the content into a markdown or text file first, then add that
+
+Once your content is in the repo, proceed with the setup below.
+
 ## 🚀 Get Started with GitHub Copilot
 
 1. Open up this repo in a GitHub Codespace (or your favorite dev environment).
@@ -35,9 +50,9 @@ read GUIDANCE.md and help me get this repo ready to publish
 
 1. The content creator will ask you to "help me prepare my repo for publication" or similar
 2. You'll read this GUIDANCE.md file to understand what needs to be done
-3. You'll work through each step, asking the creator for necessary information
-4. You'll implement the changes as you go
-5. At the end, you'll help delete this GUIDANCE.md file
+3. You'll look at what content already exists in the repo and use it to pre-populate the README
+4. You'll work through each step, confirming with the creator as you go
+5. At the end, you'll recommend they keep GUIDANCE.md and come back to delete it in a separate session
 
 ---
 
@@ -65,7 +80,13 @@ Remember their answer — it affects the rest of the setup:
 
 ## Step 2: Update README.md — Session Identity
 
-Copilot: You may be able to determine the session code and session title from the name of the repository or from the README. If you can, ask the content creator to confirm. If you can't, just ask them:
+Copilot: Before asking the content creator questions, **look at what's already in the repo.** The creator should have added their session content (markdown files, source code, abstracts) before starting this process. Read through any existing files to find the session code, title, description, technologies, and learning outcomes. Use what you find to pre-populate answers and confirm with the creator rather than asking from scratch.
+
+If the repo has existing content, say: *"I found [files] in the repo. Let me use these to fill out your README — I'll confirm each section with you as I go."*
+
+If the repo is empty (no content added yet), say: *"I don't see any session content in the repo yet. This process works best if you add your materials first (markdown files, source code, session abstract). Would you like to add your content now, or proceed by answering questions manually?"*
+
+You may be able to determine the session code and session title from the name of the repository or from existing files. If you can, ask the content creator to confirm. If you can't, just ask them:
 
 ### "What is your session code and title?"
 (e.g., "BRK123: Building Scalable AI Solutions" or "LAB456: Hands-On with AI Agents")
@@ -126,10 +147,7 @@ Fill in the **🏠 Getting started in your own environment** section. If the ses
 
 ### "What additional resources should we send customers to from your repo?"
 
-Always include a link to the Build Learn page. The standard link is:
-- **Build**: `https://aka.ms/learnatbuild`
-
-Add any additional resources the creator provides to the **📚 Resources and Next Steps** table.
+Add any resources the creator provides to the **📚 Resources and Next Steps** table. Use the Learn MCP Server to find relevant learn.microsoft.com links for the technologies discussed in the session.
 
 ### "Who are the content owners besides you?"
 (Names and GitHub usernames)
@@ -224,14 +242,17 @@ If the creator has slide/recording links to share, add them to the Resources tab
 
 ---
 
-## Step 10: Final Step — Delete GUIDANCE.md
+## Step 10: Final Step — GUIDANCE.md Cleanup
 
-Copilot: Before deleting this file, verify with the content creator:
+**⚠️ Do NOT delete GUIDANCE.md in this session.** 
+
+Copilot: When the creator has finished going through the steps above:
 
 1. Show a summary of everything that was completed
-2. Ask: *"Are you satisfied with all the changes? Should I delete GUIDANCE.md now, or would you like to review anything first?"*
-3. If they confirm, delete this file
-4. Remind them: *"Don't forget to update the GitHub repository settings (description and tags) if you haven't already."*
+2. Tell them: *"Everything looks good! I recommend you **do not** delete GUIDANCE.md right now. Come back to it in a separate session after you've reviewed all the changes, tested links, and are confident the repo is ready. When you're sure, you can ask me to delete GUIDANCE.md at that point."*
+3. Remind them: *"Don't forget to update the GitHub repository settings (description and tags) if you haven't already."*
+
+**Only delete GUIDANCE.md if:** The creator comes back in a **separate session**, explicitly asks to delete it, and confirms they've reviewed everything and are satisfied with the repo.
 
 ---
 

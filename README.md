@@ -1,13 +1,14 @@
 # 🚀 Get Started
 
-1. Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**)
-2. Open **GitHub Copilot Chat** and ask:
+1. **Add your session content to this repo first.** Copy in whatever materials you have — markdown files, source code, data files, session abstracts. (No large binary files like PowerPoint or Word — use text/markdown instead.)
+2. Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**)
+3. Open **GitHub Copilot Chat** and ask:
 
 ```
 read GUIDANCE.md and help me get this repo ready
 ```
 
-That's it — Copilot will walk you through the rest.
+That's it — Copilot will use your content to fill out the README and organize the repo.
 
 ---
 
@@ -65,7 +66,6 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Learn at Build | [https://aka.ms/learnatbuild](https://aka.ms/learnatbuild) | Continue learning on Microsoft Learn |
 
 ## Content Owners
 
