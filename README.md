@@ -1,14 +1,23 @@
 # 🚀 Get Started
 
-1. **Add your session content to this repo first.** Copy in whatever materials you have — markdown files, source code, data files, session abstracts. (No large binary files like PowerPoint or Word — use text/markdown instead.)
-2. Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**)
-3. Open **GitHub Copilot Chat** and ask:
+This repo is set up in **three phases** — you don't need to do everything at once:
+
+| Phase | What it does | When to run it |
+|-------|-------------|----------------|
+| **Get Started** | Sets up session title, description, outcomes, and owners | As soon as the repo is created |
+| **Refine Content** | Organizes your session content into the repo | Each time you add or update content |
+| **Finalize** | Final review, cleanup, and publication prep | When you're ready to publish |
+
+**To get started:**
+
+1. Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**)
+2. Open **GitHub Copilot Chat** and ask:
 
 ```
-read GUIDANCE.md and help me get this repo ready
+read GUIDANCE.md and help me get started
 ```
 
-That's it — Copilot will use your content to fill out the README and organize the repo.
+Copilot will walk you through setting up your session info (~15 minutes). Come back for **Refine Content** when you have material — and run it as many times as you need as your content evolves.
 
 ---
 

@@ -17,5 +17,5 @@
       }
     }
   },
-  "postCreateCommand": "echo '✅ Codespace ready! Open GitHub Copilot Chat and ask: read GUIDANCE.md and help me get this repo ready'"
+  "postCreateCommand": "echo '✅ Codespace ready! Open GitHub Copilot Chat and ask: read GUIDANCE.md and help me get started'"
 }
