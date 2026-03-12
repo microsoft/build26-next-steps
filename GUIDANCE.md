@@ -24,9 +24,12 @@ Your Copilot agent will guide you through **three phases** so you can make progr
 
 **You don't have to do all three phases in one sitting.** Add your materials, run **Get Started**, then come back for **Refine Content** when you have more — and run it again whenever your content evolves. When everything is ready, run **Finalize** once to clean up for publication.
 
-### How to start a phase
+### How to start
 
-Open GitHub Copilot Chat and say:
+1. **[Fork this repo](../../fork)** to your personal GitHub account — you'll do all your work in the fork.
+2. Add your session materials to the fork (see **Get Started** below).
+3. Open your fork in a **Codespace** (or clone it locally).
+4. Open GitHub Copilot Chat and say:
 
 - `read GUIDANCE.md and help me get started` — to set up session info
 - `read GUIDANCE.md and help me refine my content` — to organize and improve your content (run as many times as you like)
