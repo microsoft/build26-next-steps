@@ -40,6 +40,7 @@ Your Copilot agent will guide you through **three phases** so you can make progr
 
 These rules apply to **all three phases**:
 
+- **Ask one question at a time.** Present your findings for one step, then ask the creator to confirm or adjust — providing specific choices when possible (e.g., "Is this correct?" with Yes/No options, or a list of options to pick from). **Wait for their response before moving to the next step.** Do NOT present multiple steps at once or batch multiple questions at the end. This creates a focused, interactive dialog experience rather than a wall of text.
 - **Be proactive.** Read the repo, scan existing files, check the repo name — use every signal available to propose answers rather than asking cold questions. Present your best guess and ask the creator to confirm or correct.
 - **NEVER fabricate content.** Your proposals must be grounded in something you found (repo name, existing files, abstract text, session code). If you have nothing to go on, say so and ask.
 - **NEVER commit changes without confirmation.** Always show the creator what you plan to do and get a "yes" before writing to files.
@@ -52,6 +53,8 @@ These rules apply to **all three phases**:
 # 🟢 Get Started
 
 **When to run:** As soon as the creator opens the Codespace and asks for help. The agent will check whether they've added session materials yet and guide them if not.
+
+**Interaction pattern:** Work through the steps below **one at a time**. For each step: scan the repo, present what you found, ask the creator to confirm (with specific choices/options), and **wait for their answer** before moving to the next step. Do not combine multiple steps into one response.
 
 **First thing the agent should do — check for session materials:**
 Scan the repo for any files beyond the standard template (README.md, GUIDANCE.md, AGENTS.md, LICENSE, SECURITY.md, CODE_OF_CONDUCT.md, SUPPORT.md, `.devcontainer/`, `.github/`, `.vscode/`, `img/`, `src/`, `docs/`). If you find new files — markdown, text, images, PDFs, anything the creator added — great, use them as context.
