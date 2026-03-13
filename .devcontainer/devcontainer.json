@@ -1,20 +1,12 @@
 {
   "name": "Build 2026 Session Repository",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
-  },
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
   "customizations": {
     "vscode": {
       "extensions": [
         "GitHub.copilot",
         "GitHub.copilot-chat"
-      ],
-      "settings": {
-        "github.copilot.enable": {
-          "*": true
-        }
-      }
+      ]
     }
   },
   "postCreateCommand": "echo '✅ Codespace ready! Open GitHub Copilot Chat and ask: read GUIDANCE.md and help me get started'"

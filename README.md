@@ -1,23 +1,24 @@
 # 🚀 Get Started
 
-This repo is set up in **three phases** — you don't need to do everything at once:
+Your GitHub Copilot agent will guide you through **three phrases** — you don't need to do everything at once:
 
-| Phase | What it does | When to run it |
-|-------|-------------|----------------|
-| **Get Started** | Sets up session title, description, outcomes, and owners | As soon as the repo is created |
-| **Refine Content** | Organizes your session content into the repo | Each time you add or update content |
-| **Finalize** | Final review, cleanup, and publication prep | When you're ready to publish |
+| Phrase to use with Copilot | What it does | When to run it |
+|---|---|---|
+| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
+| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
+| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
 
 **To get started:**
 
-1. Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**)
-2. Open **GitHub Copilot Chat** and ask:
+1. **[Fork this repo](../../fork)** to your personal GitHub account — you'll do your work in the fork.
+2. Open your fork in a **Codespace** (click the green **Code** button → **Create a Codespace**)
+3. Open **GitHub Copilot Chat** and ask:
 
 ```
 read GUIDANCE.md and help me get started
 ```
 
-Copilot will walk you through setting up your session info (~15 minutes). Come back for **Refine Content** when you have material — and run it as many times as you need as your content evolves.
+The agent will check whether you've added any session materials (abstract, outline, screenshots, etc.). If not, it will help you add them — just drag files into the Explorer panel on the left. Once the agent has something to work with, it will scan your materials, propose answers, and ask you to confirm.
 
 ---
 
