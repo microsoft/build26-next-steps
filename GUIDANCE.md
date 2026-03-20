@@ -181,7 +181,22 @@ Update the **Content Owners** table:
 
 Copilot: When Get Started is done, show a summary of what was filled in and tell the creator:
 
-*"Get Started is complete! Your README now has the session title, description, learning outcomes, technologies, and content owners filled in. Come back for **Refine Content** when you have session materials to work with (lab instructions, demo code, session outline, etc.). Just open Copilot Chat and say: `read GUIDANCE.md and help me refine my content`."*
+*"Get Started is complete! Your README now has the session title, description, learning outcomes, technologies, and content owners filled in."*
+
+**Then propose committing the changes:**
+
+*"I'd like to commit and push these changes so they're saved. Here's what I'll commit:"*
+- List the files the agent modified (e.g., README.md)
+
+*"I will **not** commit any source files you uploaded for reference (session abstracts, PowerPoint files, Word documents, etc.) — those were just for context."*
+
+*"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
+
+If the creator says yes, commit with a descriptive message (e.g., `"Get Started: add session title, description, outcomes, and owners"`) and push to the current branch.
+
+After committing (or if they skip), tell them:
+
+*"Come back for **Refine Content** when you have session materials to work with (lab instructions, demo code, session outline, etc.). Just open Copilot Chat and say: `read GUIDANCE.md and help me refine my content`."*
 
 **Do NOT proceed to Refine Content in the same session** unless the creator explicitly asks. They likely don't have their content ready yet.
 
@@ -343,6 +358,19 @@ Copilot: When this pass is done, show a summary of what was organized or changed
 
 *"This round of Refine Content is done! Here's what I updated: [summary]. Take a look and let me know if anything needs adjusting."*
 
+**Then propose committing the changes:**
+
+*"I'd like to commit and push these changes so they're saved. Here's what I'll commit:"*
+- List the files the agent modified (e.g., README.md, files in docs/, src/)
+
+*"I will **not** commit any source files you uploaded for reference (session abstracts, PowerPoint files, Word documents, etc.) — those were just for context."*
+
+*"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
+
+If the creator says yes, commit with a descriptive message (e.g., `"Refine Content: organize lab instructions and update resources"`) and push to the current branch.
+
+After committing (or if they skip), tell them:
+
 *"You can run **Refine Content** again anytime — when you add more material, update exercises, or want to reorganize. When you're confident everything is complete and ready for publication, run **Finalize** to clean up. Just say: `read GUIDANCE.md and help me finalize`."*
 
 **It's fine to proceed to Finalize in the same session** if the creator says their content is complete. But don't push them — they may want to come back after reviewing.
@@ -406,7 +434,18 @@ Copilot: When the creator has confirmed everything looks good:
 
 **Only delete GUIDANCE.md if** the creator explicitly confirms they've reviewed everything and are satisfied with the repo.
 
-After deleting GUIDANCE.md, tell them: *"Your repo is ready for publication! 🎉 Don't forget to double-check the GitHub repository settings (description and tags) if you haven't already."*
+**Then propose committing and pushing all final changes:**
+
+*"I'd like to commit and push the final changes. Here's what I'll commit:"*
+- List all modified/deleted files (e.g., README.md cleanup, GUIDANCE.md deletion)
+
+*"I will **not** commit any source files you uploaded for reference (session abstracts, PowerPoint files, Word documents, etc.) — those were just for context."*
+
+*"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
+
+If the creator says yes, commit with a message like `"Finalize: repo ready for publication"` and push to the current branch.
+
+After committing, tell them: *"Your repo is ready for publication! 🎉 Don't forget to double-check the GitHub repository settings (description and tags) if you haven't already."*
 
 ---
 
