@@ -53,13 +53,54 @@ These rules apply to **all three phases**:
 
 ---
 
+## 🔄 Upstream Sync Rules
+
+Creators work in **personal forks** of the upstream `microsoft/` repo. All commits should be pushed back to the **upstream repo**, not just the fork.
+
+**At the start of every phase**, the agent should:
+
+1. **Check that the upstream remote is configured:**
+   ```
+   git remote -v
+   ```
+   If `upstream` is not listed, look at the fork's parent (check the repo description or `gh repo view --json parent`). Then add it:
+   ```
+   git remote add upstream https://github.com/microsoft/<repo-name>.git
+   ```
+
+2. **Check for open issues in the upstream repo:**
+   ```
+   gh issue list --repo microsoft/<repo-name> --state open
+   ```
+   If there are open issues, read each one and **propose changes to the creator based on the issue descriptions**. Present issues as actionable suggestions:
+
+   *"I found [N] open issue(s) in the upstream repo that may need your attention:"*
+   - *"Issue #X: [title] — [brief summary]. I can [proposed action]. Want me to do that?"*
+
+   Address issues naturally within the current phase's workflow — don't treat them as a separate step.
+
+3. **When committing and pushing**, always push to `upstream main` (not just `origin`):
+   ```
+   git add <files>
+   git commit -m "<message>"
+   git push upstream HEAD:main
+   ```
+   If the push fails due to permissions, fall back to pushing to `origin` and tell the creator:
+   *"I couldn't push directly to the upstream repo. I've pushed to your fork instead. You may need to open a pull request to merge your changes."*
+
+---
+
 # 🟢 Get Started
 
 **When to run:** As soon as the creator opens the Codespace and asks for help. The agent will check whether they've added session materials yet and guide them if not.
 
 **Interaction pattern:** Work through the steps below **one at a time**. For each step: scan the repo, present what you found, ask the creator to confirm (with specific choices/options), and **wait for their answer** before moving to the next step. Do not combine multiple steps into one response.
 
-**First thing the agent should do — check for session materials:**
+**First thing the agent should do — check upstream issues and session materials:**
+
+Before scanning for files, follow the **Upstream Sync Rules** above: verify the upstream remote is configured and check for open issues in the upstream repo. Present any relevant issues to the creator.
+
+**Then check for session materials:**
 Scan the repo for any files beyond the standard template (README.md, GUIDANCE.md, AGENTS.md, LICENSE, SECURITY.md, CODE_OF_CONDUCT.md, SUPPORT.md, `.devcontainer/`, `.github/`, `.vscode/`, `img/`, `src/`, `docs/`). If you find new files — markdown, text, images, PDFs, anything the creator added — great, use them as context.
 
 If you find **only template files** (nothing new has been added), guide the creator to add materials before proceeding:
@@ -192,7 +233,7 @@ Copilot: When Get Started is done, show a summary of what was filled in and tell
 
 *"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
 
-If the creator says yes, commit with a descriptive message (e.g., `"Get Started: add session title, description, outcomes, and owners"`) and push to the current branch.
+If the creator says yes, commit with a descriptive message (e.g., `"Get Started: add session title, description, outcomes, and owners"`) and push to the **upstream repo** following the Upstream Sync Rules above (`git push upstream HEAD:main`). If that fails, push to `origin` and advise opening a PR.
 
 After committing (or if they skip), tell them:
 
@@ -207,6 +248,10 @@ After committing (or if they skip), tell them:
 **You can run this phase as many times as you want.** Each time, the agent will scan what's in the repo, compare it to what's in the README, and help you organize, restructure, or update. Content evolves — run Refine Content at 50% done, again at 75%, and again at 100%. There's no penalty for iterating.
 
 **When to run:** You have some session content to work with — lab instructions, demo walkthrough, slide deck notes, source code, or a detailed session outline. You don't need everything finished; even a partial draft is enough to start.
+
+**First thing the agent should do — check upstream issues:**
+
+Before scanning content, follow the **Upstream Sync Rules** above: verify the upstream remote is configured and check for open issues in the upstream repo. Present any relevant issues to the creator and address them as part of this pass.
 
 **What to have ready:**
 - [ ] Session content in some form (markdown files, source code, detailed outline, content extracted from slides)
@@ -367,7 +412,7 @@ Copilot: When this pass is done, show a summary of what was organized or changed
 
 *"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
 
-If the creator says yes, commit with a descriptive message (e.g., `"Refine Content: organize lab instructions and update resources"`) and push to the current branch.
+If the creator says yes, commit with a descriptive message (e.g., `"Refine Content: organize lab instructions and update resources"`) and push to the **upstream repo** following the Upstream Sync Rules above (`git push upstream HEAD:main`). If that fails, push to `origin` and advise opening a PR.
 
 After committing (or if they skip), tell them:
 
@@ -380,6 +425,10 @@ After committing (or if they skip), tell them:
 # 🟣 Finalize
 
 **When to run:** Your content is complete and you're ready to publish. The repo should be publication-ready after this phase.
+
+**First thing the agent should do — check upstream issues:**
+
+Before reviewing for completeness, follow the **Upstream Sync Rules** above: verify the upstream remote is configured and check for open issues in the upstream repo. Any remaining open issues should be addressed or explicitly acknowledged before marking the repo as publication-ready.
 
 **What to have ready:**
 - [ ] All content reviewed and finalized
@@ -443,7 +492,7 @@ Copilot: When the creator has confirmed everything looks good:
 
 *"Ready to commit? Reply **Yes** to commit and push, or **No** to skip."*
 
-If the creator says yes, commit with a message like `"Finalize: repo ready for publication"` and push to the current branch.
+If the creator says yes, commit with a message like `"Finalize: repo ready for publication"` and push to the **upstream repo** following the Upstream Sync Rules above (`git push upstream HEAD:main`). If that fails, push to `origin` and advise opening a PR.
 
 After committing, tell them: *"Your repo is ready for publication! 🎉 Don't forget to double-check the GitHub repository settings (description and tags) if you haven't already."*
 
