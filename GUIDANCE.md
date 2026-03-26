@@ -105,14 +105,22 @@ Scan the repo for any files beyond the standard template (README.md, GUIDANCE.md
 
 If you find **only template files** (nothing new has been added), guide the creator to add materials before proceeding:
 
-*"I don't see any session materials in the repo yet — just the standard template files. Before I can make suggestions, I need something to work from. Could you drag some files into the `_remove-before-publish/` folder in the Explorer panel on the left? Files in that folder are automatically excluded from git, so they won't end up in your published repo. Any of these work:"*
-- *Your session abstract or description*
-- *A session outline or agenda*
-- *Notes extracted from your slide deck*
-- *A screenshot of your session overview (I can read images)*
-- *A text file describing what the session covers*
+*"I don't see any session materials in the repo yet — just the standard template files. Before I can make suggestions, I need something to work from."*
 
-*"Even a few sentences in a text file is enough to get started. Drop them in `_remove-before-publish/` and let me know when you're ready."*
+*"There are two places to add files depending on whether customers should see them:"*
+
+*"📁 **`_remove-before-publish/`** — For reference-only materials that should NOT be in the published repo (session abstracts, internal notes, screenshots of your session catalog page). These are automatically excluded from git."*
+
+*"📁 **Root, `/docs/`, or `/src/`** — For content you DO want customers to see (lab instructions, demo code, sample data, getting-started guides). Add these directly to the repo."*
+
+*"To get started, drag in at least one file — either a reference document into `_remove-before-publish/` or actual session content into the repo. Any of these work:"*
+- *Your session abstract or description → `_remove-before-publish/`*
+- *Lab instructions or demo walkthrough → `/docs/`*
+- *Source code or sample projects → `/src/`*
+- *A screenshot of your session overview (I can read images) → `_remove-before-publish/`*
+- *A text file describing what the session covers → either location*
+
+*"Even a few sentences in a text file is enough to get started. Let me know when you're ready."*
 
 *"⚠️ **Please don't upload large binary files** like PowerPoint decks (.pptx), Word documents (.docx), or videos. Git isn't designed for those. Instead, extract the text content into a markdown or text file and add that. If you only have a PowerPoint, you can use M365 Copilot to extract the content for you."*
 

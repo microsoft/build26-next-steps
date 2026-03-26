@@ -1,16 +1,18 @@
 # 📁 Source Materials (Not Published)
 
-Drop your session source materials here — session abstracts, screenshots, slide deck exports, notes, or any reference files you want Copilot to read while setting up your repo.
+Drop your **reference-only** source materials here — session abstracts, screenshots, internal notes, or any files you want Copilot to read but that **should not be seen by customers**.
 
 **Files in this folder are automatically excluded from git.** They will not appear in your commits, pull requests, or the published repo. Only this README is tracked.
 
+> 💡 **Files you DO want customers to see** — like lab instructions, demo code, sample data, or getting-started guides — should go directly into `/docs/`, `/src/`, or the repo root. Don't put publishable content here.
+
 ## What to put here
 
-- Session abstract or description text
-- Screenshots of your session overview (Copilot can read images)
+- Session abstract or catalog description (internal reference)
+- Screenshots of your session overview page
 - Notes extracted from your slide deck
-- Outlines, agendas, or planning docs
-- Any reference material you want Copilot to use as context
+- Internal outlines, agendas, or planning docs
+- Any reference material you want Copilot to use as context but not publish
 
 ## What NOT to put here
 
