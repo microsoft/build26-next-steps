@@ -79,13 +79,23 @@ Creators work in **personal forks** of the upstream `microsoft/` repo. All commi
 
    Address issues naturally within the current phase's workflow — don't treat them as a separate step.
 
-3. **When committing and pushing**, push to `origin` (the creator's fork), then open a PR to upstream:
+3. **When committing and pushing**, push to `origin` (the creator's fork):
    ```
    git add <files>
-   git commit -m "<message>"
+   git commit -m "<short summary>
+
+   <detailed description of changes>
+
+   Fixes microsoft/<repo-name>#<issue-number>"
    git push origin HEAD
-   gh pr create --repo microsoft/<repo-name> --head <creator>:<branch> --title "<message>" --body "<summary of changes>"
    ```
+   **Commit message format matters.** The creator may open the PR manually (e.g., if the Codespace can't access the upstream private repo). GitHub pre-fills the PR title from the commit subject and the body from the rest. So:
+   - **First line** (subject): Short summary, under 72 characters. No issue references here.
+   - **Blank line**, then **body**: Detailed description of what changed and why.
+   - **Last line of body**: `Fixes microsoft/<repo-name>#<issue-number>` — this must be in the body, not the subject, so GitHub links and closes the issue when the PR merges.
+
+   If `gh pr create` works, use it. If not, tell the creator to open the PR manually from their fork — the commit message will pre-fill correctly.
+
    Present the PR link to the creator so they can review and merge it themselves.
 
 ---
