@@ -87,8 +87,8 @@ For more information, setup instructions for other dev clients, and to post comm
 
 ### 📚 Resources and Next Steps
 
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
+| Resource | Description |
+|:---------|:------------|
 
 ## Content Owners
 

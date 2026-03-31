@@ -344,6 +344,8 @@ The **🏫 Getting started in a guided session** section should already have bee
 
 Copilot: **Proactively suggest resources — don't just ask.** Use the Learn MCP Server to find relevant learn.microsoft.com links based on the technologies already identified in Get Started. Also look for links already mentioned in the session content.
 
+**Table format:** The Resources table has two columns: **Resource** and **Description**. The resource name in the first column must be a hyperlink to the resource. Each link must have **distinct, descriptive link text** — use the resource's actual name, not the domain (e.g., `[AI Toolkit for Visual Studio Code](https://learn.microsoft.com/windows/ai/toolkit/)`, NOT `[learn.microsoft.com](https://learn.microsoft.com/windows/ai/toolkit/)`). Every row's link text should be visually different so attendees can tell them apart.
+
 Present your suggestions: *"Here are resources I'd recommend adding to the table: [list]. Want me to add these? Are there others you'd like to include?"*
 
 Add confirmed resources to the **📚 Resources and Next Steps** table.
