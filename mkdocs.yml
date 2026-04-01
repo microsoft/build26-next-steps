@@ -1,0 +1,72 @@
+site_name: Microsoft Build 2026 - Next Steps
+site_url: https://microsoft.github.io/build26-next-steps/
+site_author: Microsoft
+site_description: Continue your learning journey after Microsoft Build 2026.
+
+# Repository
+repo_name: Microsoft Build 2026 - Next Steps
+repo_url: https://github.com/microsoft/build26-next-steps
+
+# Copyright
+copyright: >
+  Copyright &copy; 2025 - present Microsoft
+
+nav:
+  - Home: index.md
+  - Session Topics:
+    - Developer Tools & Frameworks: frameworks.md
+    - Cloud Platform & Data: cloud-platform-data.md
+    - Model Training: model-training.md
+    - Agents & Apps: agents-apps.md
+    - Responsible AI: responsible-ai.md
+    - Windows: windows.md
+  - Skilling & Resources:
+    - Azure Skilling: azure-skilling.md
+    - Global Skilling: global-skilling.md
+  - Marketplace: marketplace.md
+  - MVP: mvp.md
+  - Microsoft Build: microsoft-build.md
+
+plugins:
+  - glightbox
+  - search
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - content.code.copy
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - navigation.expand
+
+  font: false
+
+  palette:
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-2
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - css/custom.css

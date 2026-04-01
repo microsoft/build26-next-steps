@@ -1,12 +1,6 @@
 # /docs
 
-This folder is for documentation and step-by-step content for your session.
-
-## What goes here
-
-- **Labs/Workshops**: Step-by-step instructions organized into numbered exercises (e.g., `01-setup/`, `02-first-exercise/`)
-- **Demos**: Walkthrough documentation explaining the demo code in `/src`
-- **Breakouts**: Supplementary documentation, diagrams, or reference material
+This folder contains the MkDocs source content for the Microsoft Build 2026 Next Steps site. These markdown files are served via GitHub Pages at https://microsoft.github.io/build26-next-steps/.
 
 ## Tips
 

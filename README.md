@@ -1,114 +1,33 @@
-# 🚀 Get Started
-
-**The goal of this repo is to give attendees something meaningful to do after your session — and this is where they'll do it.** Your Copilot agent will help you set that up using three phrases:
-
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-**To get started:**
-
-1. **[Fork this repo](../../fork)** to your personal GitHub account — you'll do your work in the fork.
-2. Open your fork in a **Codespace** (click the green **Code** button → **Create a Codespace**)
-3. Open **GitHub Copilot Chat** and ask:
-
-```
-read GUIDANCE.md and help me get started
-```
-
-The agent will check whether you've added any session materials (abstract, outline, screenshots, etc.). If not, it will help you add them — just drag files into the Explorer panel on the left. Once the agent has something to work with, it will scan your materials, propose answers, and ask you to confirm.
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
----
-
 <p align="center">
 <img src="img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
 </p>
 
-# [Microsoft Build 2026](https://build.microsoft.com)
+# [Microsoft Build 2026](https://build.microsoft.com) — Next Steps
 
-## 🔥 BRKXXX: SESSION TITLE
+Microsoft Build is anchored in technical depth, developer credibility, and interactive creation. Engage with session-specific content in your environment with interactive repos to further your learning for your own purposes. Click on a topic to see the repos for each session.
 
-### Session Description
+👉 **[Browse the full site](https://microsoft.github.io/build26-next-steps/)** for the best experience with navigation across all topics.
 
-*Add Session Description*
+## Session Topics
 
-### 🏫 Getting started in a guided session
+- **[Developer Tools & Frameworks](docs/frameworks.md)** — Focuses on using coding agents, personalizing developer workflows, reviewing and securing the new volume of code, and integrating LLM inference across a variety of open source and proprietary frameworks like Next.js, Python, .NET, Java, and more.
+- **[Cloud Platform & Data](docs/cloud-platform-data.md)** — Focuses on the cloud foundations developers build on — from infrastructure, to data, to platform services — that power modern applications and AI workloads.
+- **[Model Training](docs/model-training.md)** — For developers and data scientists looking to make AI work for them focusing on fine-tuning, reinforcement training, evals, PyTorch, TensorFlow, and more.
+- **[Agents & Apps](docs/agents-apps.md)** — Focuses on building applications and agents from a single prompt to agent framework for developers who are building for task to building for scale and doing both with security in mind.
+- **[Responsible AI](docs/responsible-ai.md)** — Reinforces Microsoft's leadership in helping developers ship AI that is safe, compliant, and resilient by design. Learn to build trustworthy, secure, and responsible AI systems.
+- **[Windows](docs/windows.md)** — Focuses on how developers can build on and build with Windows both natively and through WSL.
 
-To get started with this session in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
+## Skilling & Resources
 
-### 🏠 Getting started in your own environment
-
-If you're following these steps at your own pace:
-- [Fork this repository](../../fork)
-- Set up your development environment
-- <!-- step 3 -->
-
-### 🧠 Learning Outcomes
-
-By the end of this session, you will be able to:
-
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
-
-### 💬 Keep Learning with Copilot
-
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Make sure you have the [Microsoft Learn MCP Server](https://github.com/MicrosoftDocs/MCP) connected so Copilot can pull in the latest official documentation.
-
-Use these as a starting point — or write your own!
-
-<!-- Prompts will be tailored to this session's content during repo setup. -->
-
-> *Prompts coming soon — check back after the session content is finalized.*
-
-### 💻 Technologies Used
-
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
-
-### 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
-
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
-
-### 📚 Resources and Next Steps
-
-| Resource | Description |
-|:---------|:------------|
-
-## Content Owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
-    </td>
-</tr></table>
+- [Azure Skilling](docs/azure-skilling.md) — Azure-focused learning plans
+- [Global Skilling](docs/global-skilling.md) — Worldwide skilling programs
+- [Marketplace](docs/marketplace.md) — Marketplace resources and extensions
+- [MVP](docs/mvp.md) — Microsoft MVP community resources
+- [Microsoft Build](docs/microsoft-build.md) — Event information and links
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
 

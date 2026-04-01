@@ -1,0 +1,52 @@
+/* Microsoft Build 2026 VisID — Custom Theme */
+
+/* ── Typography ── */
+/* Segoe UI for body, Cascadia Code for code/monospace */
+:root {
+  --md-text-font: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --md-code-font: "Cascadia Code", "Cascadia Mono", "Consolas", "Courier New", monospace;
+}
+
+body {
+  font-family: var(--md-text-font);
+}
+
+code, pre, kbd, .highlight {
+  font-family: var(--md-code-font);
+}
+
+h1, h2 {
+  font-weight: 800;
+}
+
+h3, h4, h5 {
+  font-weight: 600;
+}
+
+/* ── Build 2026 Color Palette ── */
+/* Primary: Black #000000, Light bg: #F2F2E2 */
+/* Accent: Blue #01a5ef */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #000000;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #000000;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+/* ── General ── */
+img {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ── Light/Dark mode image switching ── */
+[data-md-color-scheme="default"] img.only-dark,
+[data-md-color-scheme="slate"] img.only-light {
+  display: none;
+}
+
