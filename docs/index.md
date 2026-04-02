@@ -12,7 +12,7 @@ Explore labs and session repositories organized by topic:
 
 | Topic | Description |
 | --- | --- |
-| [Developer Tools & Frameworks](frameworks.md) | Focuses on using coding agents, personalizing developer workflows, reviewing and securing the new volume of code, and integrating LLM inference across a variety of open source and proprietary frameworks like Next.js, Python, .NET, Java, and more. |
+| [Developer Tools & Frameworks](devtools-frameworks.md) | Focuses on using coding agents, personalizing developer workflows, reviewing and securing the new volume of code, and integrating LLM inference across a variety of open source and proprietary frameworks like Next.js, Python, .NET, Java, and more. |
 | [Cloud Platform & Data](cloud-platform-data.md) | Focuses on the cloud foundations developers build on — from infrastructure, to data, to platform services — that power modern applications and AI workloads. |
 | [Model Training](model-training.md) | For developers and data scientists looking to make AI work for them focusing on fine-tuning, reinforcement training, evals, PyTorch, TensorFlow, and more. |
 | [Agents & Apps](agents-apps.md) | Focuses on building applications and agents from a single prompt to agent framework for developers who are building for task to building for scale and doing both with security in mind. |

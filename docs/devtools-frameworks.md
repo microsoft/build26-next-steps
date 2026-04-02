@@ -1,6 +1,6 @@
 ![Microsoft Build 2026](img/banner-build-26.png)
 
-# Frameworks
+# Developer Tools & Frameworks
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on frameworks and developer tooling.
 
@@ -9,10 +9,6 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on f
 | Session | Repository | Presenters |
 | --- | --- | --- |
 | <!-- session title --> | <!-- repo link --> | <!-- presenters --> |
-
-## Skilling Plans
-
-- <!-- skilling plan links -->
 
 ## Additional Resources
 
