@@ -2,8 +2,8 @@
 
 # Azure Skilling
 
-Azure-focused learning plans and skilling resources from Microsoft Build 2026.
+Azure-focused skilling resources from Microsoft Build 2026.
 
 ## Additional Resources
 
-- <!-- additional resource links -->
+- <!-- additional resource links to calls to action -->
