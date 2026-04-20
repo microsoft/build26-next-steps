@@ -26,6 +26,6 @@ Explore lab and session repositories organized by topic to engage in interactive
 | [Azure Skilling](azure-skilling.md) | Azure-focused learning plans and skilling resources |
 | [Global Skilling](global-skilling.md) | Worldwide skilling programs and learning paths |
 | [AI Skills Fest](ai-skills-fest.md) | AI Skills Fest learning programs and resources |
-| [Microsoft Marketplace](microsoft-marketplace.md) | Marketplace resources and extensions |
+| [Microsoft Marketplace](microsoft-marketplace.md) | Microsoft Marketplace resources and extensions |
 | [MVP](mvp.md) | Microsoft MVP community resources |
 | [Microsoft Build Info](microsoft-build-info.md) | Microsoft Build event information and registration |
