@@ -9,24 +9,25 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on c
 | Session | Presenters |
 | --- | --- |
 | BRK220: Using AI tools to teach old apps new tricks | Amanda Silver |
-| BRK221: Idea to production-ready agent in seconds on AI-native runtime |  |
+| BRK221: Idea to production-ready agent in seconds on AI-native runtime | Devanshi Joshi, Simon Jakesch |
 | BRK222: The honest practitioner's take on agentic AI on Kubernetes | Brendan Burns |
 | BRK223: From rows to reasoning: Designing databases for AI apps and agents | Charles Feddersen, Abe Omorogbe |
-| BRK224: Thirsty for more data: how Pepsi refreshed for agentic apps |  |
+| BRK224: Thirsty for more data: how Pepsi refreshed for agentic apps | Nachiket Karajagi, Jenny Oh, Rishabh Saha |
 | BRK225: Data, apps, and agents: the future of app dev with Microsoft Fabric | Ben Zulauf, Sachin Patney |
 | BRK226: Inside Azure innovations with Mark Russinovich | Mark Russinovich |
 | BRK227: Distributed systems to AI platforms with Mark Russinovich & Ion Stoica | Mark Russinovich, Ion Stoica |
-| BRK228: Modern resiliency from build to recovery through Agentic AI | Venkatesh Sargunesan, Amit Ganguli |
-| BRK229: From Skeptic to Superpower: Real-World AI Coding Workflows That Scale |  |
-| DEM310: Ship code faster with AI-powered NoSQL schema design | Theo Van Kraay |
-| DEM311: Scale cloud-native workloads with Azure Linux |  |
-| DEM312: Multi-agents in action with 3 AI agents, 3 frameworks, tools & models |  |
-| DEM313: Build and ship production-ready apps fast with Microsoft Fabric |  |
-| LAB510: Take LLMs from prototype to production on AKS |  |
+| BRK228: Modern resiliency from build to recovery through Agentic AI | Rochak Mittal, Abhimanyu Varma, Shobhit Garg |
+| BRK229: From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | Mario Toffia, Priyanka Sharma |
+| DEM310: Ship code faster with AI-powered NoSQL schema design | Marko Hotti, Sergiy Smyrnov |
+| DEM311: Scale cloud-native workloads with Azure Linux | Jim Perrin, Poorvi Narang |
+| DEM312: Multi-agents in action with 3 AI agents, 3 frameworks, tools & models | Vini Soto, Jan Kalis |
+| DEM313: Build and ship production-ready apps fast with Microsoft Fabric | Sunitha  Muthukrishna, Chris Anderson |
+| DEM362: Building a Multi-Agent Workflow in Microsoft Fabric | Alexander Wachtel |
+| DEM363: From the Field: Accelerate Your Development for Azure Marketplace | Freek Berson |
+| DEM364: Postgres and OpenAI - a match made in Azure | Giorgi Dalakishvili |
+| LAB510: Take LLMs from prototype to production on AKS | Sertaç Özercan, Paul Yu |
 | LAB511: Create advanced Postgres-powered agentic apps with Azure HorizonDB | Jonathon Frost, Denzil Ribeiro |
-| LAB512: Hands-on with Azure Cobalt 200 - from code to cloud-native deployment |  |
-| LAB513: Build an AI app with Azure SQL Hyperscale, Microsoft Fabric, & Foundry | Someleze Diko, [Matthew Calder](https://build.microsoft.com/en-US/speakers/1768245294609build26-1753129132101001Cp9w?source=/speakers) |
-
+| LAB513: Build an AI app with Azure SQL Hyperscale, Microsoft Fabric, & Foundry | Matthew Calder, Someleze Diko |
 ## Additional Resources
 
 ### Cloud-Native Platform (AKS)

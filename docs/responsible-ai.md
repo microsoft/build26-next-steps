@@ -8,13 +8,13 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 
 | Session | Presenters |
 | --- | --- |
-| BRK250: Govern open-source AI agents, any framework, any scale | Roni Burd, Mehrnoosh Sameki, Sarah Bird |
-| BRK251: Build the agent your customers want: Deploy the agent your enterprise needs with A365 | Neta Haiby, Kendra Springer |
-| BRK252: Observability for AI agents on any framework | Sebastian Kohlmeier, Sam Naghshineh |
-| DEM340: Grounded agents with IQ: quality, trust, and context |  |
-| DEM341: Any agent, any cloud: Microsoft Foundry + OpenTelemetry tracing | SuiLin Yap, Hanchi Wang |
-| LAB540: Observe, optimize and protect your hosted agents in Microsoft Foundry | Filisha Shah |
-
+| BRK250: Govern open-source AI agents, any framework, any scale | Sandeep Atluri, Sarah Bird |
+| BRK251: Build secure and enterprise-ready agents with Agent 365 | Neta Haiby, Kendra Springer |
+| BRK252: Observability for AI agents on any framework | Sebastian Kohlmeier, Filisha Shah |
+| DEM340: Build work-ready agents with Foundry + IQ, govern with Agent 365 | Srikumar Nair |
+| DEM341: Any agent, any cloud: Microsoft Foundry + OpenTelemetry tracing | Hanchi Wang, SuiLin Yap |
+| DEM369: Responsible AI in Action: From Principles to Real‑World Engineering | Alexander Wachtel |
+| LAB540: Observe, optimize and protect your hosted agents in Microsoft Foundry | Nitya Narasimhan, Filisha Shah |
 ## Additional Resources
 
 ### AI Governance and Compliance

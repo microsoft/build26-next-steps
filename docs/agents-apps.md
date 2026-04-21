@@ -8,23 +8,24 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 
 | Session | Presenters |
 | --- | --- |
-| BRK240: Build context-aware agents at scale with Microsoft IQ | [Marco Casalaina](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758304897855001h9Qq?source=/speakers), Anagha Todalbagi |
+| BRK209: Japan Wrap-up Session | Tadashi Okazaki |
+| BRK240: Build context‑aware agents at scale with Microsoft IQ | [Marco Casalaina](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758304897855001h9Qq?source=/speakers), Anagha Todalbagi |
 | BRK241: Build and host enterprise-grade AI agents with Microsoft Foundry | Jeff Hollan, Amanda Silver, Tina Schuchman |
-| BRK242: Get the right tools for your agents with 1-click | Chu Lahlou, Ronak Chokshi, Maria Naggaga Nakanwagi |
+| BRK242: Get the right tools for your agents with 1-click | Joe Filcik, Ronak Chokshi, Maria Naggaga |
 | BRK243: Claw agents and multi-agent systems on Foundry | Shawn Henry, [Amanda Foster](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768498845637001TuQh?source=/speakers), Glenn Condron |
-| BRK244: Agent supervision is the new senior engineering skill |  |
-| BRK245: OpenClaw: Building agents that actually do things |  |
+| BRK244: Agent supervision is the new senior engineering skill | swyx  (Shawn Wang) |
+| BRK245: Breakout session with Peter Steinberger | Peter Steinbeger |
 | BRK246: Foundry IQ: Fuel your agents with knowledge from everywhere | Pablo Castro |
-| BRK247: Mark and Scott learn...the future of software engineering | [Scott Hanselman](https://build.microsoft.com/en-US/speakers/1768245294609build26-1769008130185001WAvh?source=/speakers), Mark Russinovich |
-| DEM330: Code a voice-first agent with avatars in Microsoft Foundry | [Henk Boelman](https://build.microsoft.com/en-US/speakers/1768245294609build26-1754963585693001VLHf?source=/speakers) |
-| DEM331: Turn APIs, tools, and data into real agent velocity | Maria Naggaga Nakanwagi |
+| BRK247: Mark and Scott learn...the future of software engineering | Scott Hanselman, Mark Russinovich |
+| DEM330: Code a voice-first agent with avatars in Microsoft Foundry | Henk Boelman |
+| DEM331: Turn APIs, tools, and data into real agent velocity | Chu Lahlou |
 | DEM332: From Prompt to Production: Agentic App Development with Enterprise-Grade Controls |  |
-| DEM333: How Foundry integrates with open-source frameworks and tools | Facundo Santiago |
-| DEM334: From chatbots to work-completing agents: Building with the Teams SDK | Ricky Castaneda |
-| LAB530: Engineering agents that reason, act, and adapt | [Henk Boelman](https://build.microsoft.com/en-US/speakers/1768245294609build26-1754963585693001VLHf?source=/speakers), Gustavo Cordido |
-| LAB531: Use agentic tools in Copilot Studio |  |
-| LAB532: Build your knowledge base with Foundry IQ, query it from Copilot CLI | [Ayca Bas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1762250455017001UQP1?source=/speakers), Pamela Fox |
-
+| DEM333: How Foundry integrates with open-source frameworks and tools | Nagkumar Arkalgud, Facundo Santiago |
+| DEM334: From chatbots to work-completing agents: Building with the Teams SDK | Umang Sehgal |
+| DEM360: Discovering Power App Data with M365 Copilot using MCP | Christine Flora |
+| DEM361: Understand and fix Agent Framework apps with observability and evals | James Bennett |
+| LAB530: Engineering agents that reason, act, and adapt | Henk Boelman, Gustavo Cordido |
+| LAB532: From data to context: Agent‑ready knowledge with Foundry IQ | Ayca Bas, Pamela Fox |
 ## Additional Resources
 
 ### Microsoft Agents Hub
