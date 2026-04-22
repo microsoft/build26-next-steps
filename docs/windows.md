@@ -8,11 +8,11 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 
 | Session | Presenters |
 | --- | --- |
-| BRK260: Build local AI powered experiences w/ Microsoft Foundry on Windows | Aditi Narvekar, Anastasiya  Tarnouskaya |
-| BRK261: Build and ship faster with a developer-optimized experience on Windows | Shen  Chauhan, Clint Rutkas |
+| BRK260: Build local AI powered experiences w/ Microsoft Foundry on Windows | [Aditi Narvekar](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995682001p4go?source=/speakers), [Anastasiya  Tarnouskaya](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774386059185001OLB7?source=/speakers) |
+| BRK261: Build and ship faster with a developer-optimized experience on Windows | [Shen  Chauhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774374356763001C1Ra?source=/speakers), Clint Rutkas |
 | BRK262: AI & Agent-Augmented coding you can trust | Kirupa  Chinnathambi |
-| DEM345: From prompt to app, build AI powered apps on Windows | Lei Xu, Nikola  Metulev |
-| DEM346: What's new in Windows Subsystem for Linux | Craig Loewen, Pooja Trivedi |
+| DEM345: From prompt to app, build AI powered apps on Windows | Lei Xu, [Nikola  Metulev](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774886013101001R9mk?source=/speakers) |
+| DEM346: What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) |
 | LAB550: Build, deploy, and scale agents with Windows 365 | Steven  Thomas, T. Robert Nishi |
 
 ## Additional Resources

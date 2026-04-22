@@ -9,17 +9,17 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on m
 | Session | Presenters |
 | --- | --- |
 | BRK230: Confident model selection and integration with Microsoft Foundry | [Yina Arenas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768532909165001FoJl?source=/speakers), Naomi Moneypenny |
-| BRK231: Deploy. Observe. Learn. Reinforcement learning for production agents | Omkar More, Alicia Frame |
-| BRK232: Train and deploy custom OSS reasoning models with Foundry | Chris Lauren, Manoj Bableshwar |
-| BRK233: Software Defensibility in the era of AI coding | Chip Huyen |
-| BRK234: Shipping custom models at scale from fine-tuning to inference | Rob Ferguson, Daniel Han, Mark Saroufim |
+| BRK231: Deploy. Observe. Learn. Reinforcement learning for production agents | Omkar More, [Alicia Frame](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772039473777001dTM9?source=/speakers) |
+| BRK232: Train and deploy custom OSS reasoning models with Foundry | Chris Lauren, [Manoj Bableshwar](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775238034507001eQ13?source=/speakers) |
+| BRK233: Software Defensibility in the era of AI coding | [Chip Huyen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775514714965001BQ8v?source=/speakers) |
+| BRK234: Shipping custom models at scale from fine-tuning to inference | [Rob Ferguson](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774905889138001JtYZ?source=/speakers), [Daniel Han](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775582336728001AON2?source=/speakers), [Mark Saroufim](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775582375994001WvjJ?source=/speakers) |
 | BRK235: Local Models, developer control, and the future of AI runtimes | Michael Chiang |
-| DEM320: Fine‑tuning isn’t first: smarter training in Microsoft Foundry | Alicia Frame |
+| DEM320: Fine‑tuning isn’t first: smarter training in Microsoft Foundry | [Alicia Frame](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772039473777001dTM9?source=/speakers) |
 | DEM321: Inside a reinforcement learning loop for production agents |  |
-| DEM322: Smaller, faster, smarter: Distilling agents with fine‑tuning | William Liang |
+| DEM322: Smaller, faster, smarter: Distilling agents with fine‑tuning | [William Liang](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998627001p6H4?source=/speakers) |
 | DEM368: Data Science & Machine Learning with Microsoft Fabric | Prashant G Bhoyar |
-| LAB520: Get Started with Models in Microsoft Foundry to Build AI Apps | Lee Stott, Aaron Powell |
-| LAB521: Improving agent behavior using reinforcement learning from traces | Bethany Jepchumba, Alicia Frame |
+| LAB520: Get Started with Models in Microsoft Foundry to Build AI Apps | Lee Stott, [Aaron Powell](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772472228939001By6I?source=/speakers) |
+| LAB521: Improving agent behavior using reinforcement learning from traces | [Bethany Jepchumba](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284986797001pKsv?source=/speakers), [Alicia Frame](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772039473777001dTM9?source=/speakers) |
 
 ## Additional Resources
 
