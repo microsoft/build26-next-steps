@@ -23,7 +23,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 - [Desktop application development with .NET](https://learn.microsoft.com/dotnet/desktop/?view=netdesktop-8.0) - WPF, WinUI 3, and other frameworks for Windows apps.
 
 ### AI/ML on Windows
-- [Build AI-powered apps on Windows with Foundry](https://learn.microsoft.com/azure/ai-studio/how-to-develop-on-windows) - Local and edge AI development for Windows platforms.
+- [Build AI-powered apps on Windows with Microsoft Foundry](https://learn.microsoft.com/azure/ai-studio/how-to-develop-on-windows) - Local and edge AI development for Windows platforms.
 - [ONNX Runtime for inference optimization](https://learn.microsoft.com/en-us/training/modules/intro-onnx-runtime/) - Cross-platform model deployment and optimization.
 - [Windows AI with Windows.ML](https://learn.microsoft.com/windows/ai/windows-ml/) - On-device machine learning for reduced latency and privacy.
 
