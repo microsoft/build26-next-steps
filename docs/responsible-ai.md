@@ -29,6 +29,6 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 - [AI safety and abuse prevention](https://learn.microsoft.com/azure/openai/concepts/abuse-monitoring) - Safeguards for production AI applications.
 
 ### Frameworks and Integration
-- [Azure AI Foundry tools and integrations](https://learn.microsoft.com/azure/ai-studio/how-to/tools-overview) - End-to-end tooling for building and monitoring responsible AI systems.
+- [Microsoft Foundry tools and integrations](https://learn.microsoft.com/azure/ai-studio/how-to/tools-overview) - End-to-end tooling for building and monitoring responsible AI systems.
 - [OpenTelemetry for AI applications](https://learn.microsoft.com/azure/azure-monitor/app/opentelemetry-overview) - Standard observability instrumentation for AI/ML workloads.
 - [Enterprise AI governance and deployment](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/industry/ai-governance) - Scaling AI responsibly across organizations.

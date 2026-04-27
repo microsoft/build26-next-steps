@@ -10,7 +10,7 @@ Microsoft Build is anchored in technical depth, developer credibility, and inter
 
 ## Session Topics
 
-- **[Developer Tools & Frameworks](docs/frameworks.md)** — Focuses on using coding agents, personalizing developer workflows, reviewing and securing the new volume of code, and integrating LLM inference across a variety of open source and proprietary frameworks like Next.js, Python, .NET, Java, and more.
+- **[Developer Tools & Frameworks](docs/devtools-frameworks.md)** — Focuses on using coding agents, personalizing developer workflows, reviewing and securing the new volume of code, and integrating LLM inference across a variety of open source and proprietary frameworks like Next.js, Python, .NET, Java, and more.
 - **[Cloud Platform & Data](docs/cloud-platform-data.md)** — Focuses on the cloud foundations developers build on — from infrastructure, to data, to platform services — that power modern applications and AI workloads.
 - **[Model Training](docs/model-training.md)** — For developers and data scientists looking to make AI work for them focusing on fine-tuning, reinforcement training, evals, PyTorch, TensorFlow, and more.
 - **[Agents & Apps](docs/agents-apps.md)** — Focuses on building applications and agents from a single prompt to agent framework for developers who are building for task to building for scale and doing both with security in mind.
@@ -21,9 +21,10 @@ Microsoft Build is anchored in technical depth, developer credibility, and inter
 
 - [Azure Skilling](docs/azure-skilling.md) — Azure-focused learning plans
 - [Global Skilling](docs/global-skilling.md) — Worldwide skilling programs
+- [AI Skills Fest](docs/ai-skills-fest.md) — AI Skills Fest learning programs and resources
 - [Microsoft Marketplace](docs/microsoft-marketplace.md) — Microsoft Marketplace resources and extensions
 - [MVP](docs/mvp.md) — Microsoft MVP community resources
-- [Microsoft Build](docs/microsoft-build.md) — Event information and links
+- [Microsoft Build Info](docs/microsoft-build-info.md) — Event information and links
 
 ## Contributing
 

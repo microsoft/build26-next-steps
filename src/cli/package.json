@@ -1,0 +1,37 @@
+{
+  "name": "@microsoft/msevents",
+  "version": "0.1.0",
+  "description": "Lightweight CLI for querying Microsoft event session catalogs (Build, Ignite). Parses session JSON, provides keyword/tech search, and caches locally.",
+  "main": "dist/index.js",
+  "bin": {
+    "msevents": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint src/",
+    "test": "jest"
+  },
+  "keywords": [
+    "microsoft",
+    "build",
+    "ignite",
+    "conference",
+    "cli",
+    "sessions",
+    "copilot"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist/"
+  ]
+}

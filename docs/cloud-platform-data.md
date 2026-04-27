@@ -44,7 +44,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on c
 
 ### Databases for AI Apps and Agents
 - [Intelligent applications and AI in Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/ai-artificial-intelligence-intelligent-applications?view=azuresql) - Patterns for RAG, vector search, and AI-integrated application design.
-- [AI agents in Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/azure-ai/generative-ai-agents) - Build agent workflows with PostgreSQL vector capabilities and Foundry Agent Service.
+- [AI agents in Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/azure-ai/generative-ai-agents) - Build agent workflows with PostgreSQL vector capabilities and Microsoft Foundry Agent Service.
 - [Semantic search with Azure Database for PostgreSQL and Azure OpenAI](https://learn.microsoft.com/azure/postgresql/azure-ai/generative-ai-semantic-search) - Hands-on tutorial for semantic retrieval over Postgres data.
 - [AI agents in Azure Cosmos DB](https://learn.microsoft.com/azure/cosmos-db/ai-agents) - Design guidance for agent memory, vector search, and globally distributed NoSQL workloads.
 - [Azure Cosmos DB integrations for AI applications](https://learn.microsoft.com/azure/cosmos-db/gen-ai/integrations) - Semantic Kernel, LangChain, LlamaIndex, and related integration references.
