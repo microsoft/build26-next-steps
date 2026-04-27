@@ -24,10 +24,11 @@ Microsoft Build 2026 event information and links.
 
 | Type | Code | Description |
 | --- | --- | --- |
-| Breakout Session | BRK | In-depth technical sessions with demos and deep dives |
-| Demo | DEM | Focused demonstrations of new features and capabilities |
-| Lab | LAB | Hands-on, instructor-led coding sessions |
-| Lightning Talk | LT | 15-minute developer-led discussions in mini theaters (in-person only) |
+| Keynote | KEY | Hear Satya Nadella share the latest on AI at Microsoft — live from San Francisco, streamed globally |
+| Breakout | BRK | Expert-led sessions covering L-200 to L-400 content, with live code, demos, and technical detail |
+| Demo | DEM | In-depth demos designed for smaller audiences who want to see exactly how things work |
+| Lab | LAB | Hands-on with real code in instructor-led labs, featuring smaller groups and direct guidance |
+| Lightning Talk | LT | 15-minute, developer-led discussions held in mini theaters (in-person only, not available on demand) |
 
 ## Stay Connected
 

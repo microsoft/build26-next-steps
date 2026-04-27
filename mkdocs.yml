@@ -18,10 +18,10 @@ exclude_docs: |
 nav:
   - Home: index.md
   - Session Topics:
-    - Agents & Apps: agents-apps.md
+    - Agents & AI-native Apps: agents-apps.md
     - Cloud Platform & Data: cloud-platform-data.md
     - Developer Tools & Frameworks: devtools-frameworks.md
-    - Model Training: model-training.md
+    - Working with Models: model-training.md
     - Responsible AI: responsible-ai.md
     - Windows: windows.md
   - Skilling & Resources:
