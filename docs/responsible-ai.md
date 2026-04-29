@@ -6,7 +6,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 <p align="center">
   <img src="../img/responsible-ai.png" alt="Responsible AI" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
 
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -18,7 +18,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 | DEM369: Responsible AI in Action: From Principles to Real‑World Engineering | [Alexander Wachtel](https://build.microsoft.com/en-US/speakers/1768245294609build26-1760032715730001qqSb?source=/speakers) |
 | LAB540: Observe, optimize and protect your hosted agents in Microsoft Foundry | [Nitya Narasimhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756141269010001LleM?source=/speakers), Filisha Shah |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### AI Governance and Compliance
 - [Responsible AI principles](https://learn.microsoft.com/azure/ai-services/responsible-ai-overview) - Microsoft's core AI safety and fairness principles.

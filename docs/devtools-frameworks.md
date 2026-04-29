@@ -6,7 +6,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on f
 <p align="center">
   <img src="../img/developer-tools-and-frameworks-1.png" alt="Cloud Platform & Data" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
   
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -29,7 +29,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on f
 | LAB501: From zero to deployed on Azure with AI agents | [Yun Jung Choi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284994738001pPWz?source=/speakers), [Chris Harris](https://build.microsoft.com/en-US/speakers/1768245294609build26-1771971894525001jZEo?source=/speakers) |
 | LAB502: Make GitHub Copilot Work Your Way: Custom Tools, Context and Workflows | Tiago Pascoal, Joshua Johanning |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### GitHub Copilot and Agentic Coding
 - [GitHub Copilot on Microsoft Learn](https://learn.microsoft.com/training/github-copilot/) - Curated learning collection for Copilot fundamentals and advanced workflows.

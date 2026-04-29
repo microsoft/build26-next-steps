@@ -6,7 +6,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on m
 <p align="center">
   <img src="../img/model-training-2.png" alt="Working with Models" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
 
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -23,7 +23,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on m
 | LAB520: Get Started with Models in Microsoft Foundry to Build AI Apps | Lee Stott, [Aaron Powell](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772472228939001By6I?source=/speakers) |
 | LAB521: Improving agent behavior using reinforcement learning from traces | [Bethany Jepchumba](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284986797001pKsv?source=/speakers), [Alicia Frame](https://build.microsoft.com/en-US/speakers/1768245294609build26-1772039473777001dTM9?source=/speakers) |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### Model Selection and Foundry
 - [Microsoft Foundry documentation](https://learn.microsoft.com/azure/machine-learning/concept-foundation-models) - Overview of foundation models and model deployment in Microsoft Foundry.

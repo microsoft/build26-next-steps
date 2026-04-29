@@ -6,7 +6,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 
 <img src="../img/Agents%20and%20Apps-2.png" alt="Agents & Apps divider" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -29,7 +29,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 | LAB530: Engineering agents that reason, act, and adapt | [Henk Boelman](https://build.microsoft.com/en-US/speakers/1768245294609build26-1754963585693001VLHf?source=/speakers), [Gustavo Cordido](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756138101616001VtrM?source=/speakers) |
 | LAB532: From data to context: Agent‑ready knowledge with Foundry IQ | [Ayca Bas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1762250455017001UQP1?source=/speakers), [Pamela Fox](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756137289765001yN8u?source=/speakers) |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### Microsoft Agents Hub
 - [Agents Hub](https://learn.microsoft.com/agents) — Central resource for discovering and building agents with Microsoft technologies

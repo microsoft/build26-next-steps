@@ -8,7 +8,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on c
   <img src="../img/cloud-platform-and-data.png" alt="Cloud Platform & Data" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
 
 
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -33,7 +33,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on c
 | LAB511: Create advanced Postgres-powered agentic apps with Azure HorizonDB | [Jonathon Frost](https://build.microsoft.com/en-US/speakers/1768245294609build26-1765362664415001iCOs?source=/speakers), [Denzil Ribeiro](https://build.microsoft.com/en-US/speakers/1768245294609build26-1765804946228001vzRn?source=/speakers) |
 | LAB513: Build an AI app with Azure SQL Hyperscale, Microsoft Fabric, & Foundry | Matthew Calder, [Someleze Diko](https://build.microsoft.com/en-US/speakers/1768245294609build26-1762290823994001cHor?source=/speakers) |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### Cloud-Native Platform (AKS)
 - [What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/azure/aks/what-is-aks) - Core AKS concepts and architecture for production workloads.

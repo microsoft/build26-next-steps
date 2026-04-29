@@ -6,7 +6,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 <p align="center">
   <img src="../img/windows.png" alt="Windows" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
 
-## Session Repositories
+## 🎯 Session Repositories
 
 | Session | Presenters |
 | --- | --- |
@@ -17,7 +17,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 | DEM346: What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) |
 | LAB550: Build, deploy, and scale agents with Windows 365 | Steven  Thomas, T. Robert Nishi |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### Windows Platform and Development
 - [Windows development overview](https://learn.microsoft.com/windows/dev-environment/) - Modern tooling and frameworks for building Windows applications.
