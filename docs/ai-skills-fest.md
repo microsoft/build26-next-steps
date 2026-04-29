@@ -6,7 +6,7 @@ AI Skills Fest learning programs and resources from Microsoft Build 2026.
 
 ## How to Participate
 
-1. Visit [AI Skills Fest](https://aiskillsfest.com) for the latest challenge schedule
+1. Visit [AI Skills Fest](https://aka.ms/AISF_BuildNextSteps) for the latest challenge schedule
 2. Choose a learning path that matches your interests and skill level
 3. Complete the challenges and earn digital badges
 4. Share your progress with the community
