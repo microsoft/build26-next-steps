@@ -3,7 +3,9 @@
 # Developer Tools & Frameworks
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on frameworks and developer tooling.
-
+<p align="center">
+  <img src="../img/developer-tools-and-frameworks-1.png" alt="Cloud Platform & Data" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
+  
 ## Session Repositories
 
 | Session | Presenters |
