@@ -71,6 +71,28 @@ img {
   height: auto;
 }
 
+/* Ensure glightbox wrappers don't constrain topic strip banners. */
+.md-typeset a.glightbox[href$="agents-and-apps.png"],
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"],
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"],
+.md-typeset a.glightbox[href$="responsible-ai.png"],
+.md-typeset a.glightbox[href$="windows.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="agents-and-apps.png"] img,
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"] img,
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"] img,
+.md-typeset a.glightbox[href$="responsible-ai.png"] img,
+.md-typeset a.glightbox[href$="windows.png"] img {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
 /* Glightbox wraps Markdown images in inline links; make this one full-width. */
 .md-typeset a.glightbox[href$="model-training-2.png"] {
   display: block;

@@ -6,7 +6,6 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on c
 
 ![Cloud Platform & Data](img/cloud-platform-and-data.png)
 
-
 ## 🎯 Session Repositories
 
 | Session | Presenters |

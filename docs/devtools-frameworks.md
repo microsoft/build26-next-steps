@@ -3,6 +3,7 @@
 # Developer Tools & Frameworks
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on frameworks and developer tooling.
+
 ![Developer Tools & Frameworks](img/developer-tools-and-frameworks-1.png)
 
 ## 🎯 Session Repositories
