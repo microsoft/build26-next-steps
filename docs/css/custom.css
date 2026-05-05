@@ -71,3 +71,15 @@ img {
   height: auto;
 }
 
+/* Glightbox wraps Markdown images in inline links; make this one full-width. */
+.md-typeset a.glightbox[href$="model-training-2.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="model-training-2.png"] img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
