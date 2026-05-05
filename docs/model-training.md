@@ -3,6 +3,7 @@
 # Working with Models
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on model infrastructure, training, fine-tuning, and applied science.
+
 ![Working with Models](img/model-training-2.png)
 
 ## 🎯 Session Repositories
