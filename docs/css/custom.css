@@ -55,7 +55,6 @@ img {
 .md-typeset img[alt="Agents & Apps"],
 .md-typeset img[alt="Cloud Platform & Data"],
 .md-typeset img[alt="Developer Tools & Frameworks"],
-.md-typeset img[alt="Working with Models"],
 .md-typeset img[alt="Responsible AI"],
 .md-typeset img[alt="Windows"] {
   display: block;
@@ -63,5 +62,12 @@ img {
   height: 24px;
   object-fit: cover;
   object-position: center;
+}
+
+/* Keep this banner full-width at native height. */
+.md-typeset img[alt="Working with Models"] {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
