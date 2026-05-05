@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
+<img src="docs/img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
 </p>
 
 # [Microsoft Build 2026](https://build.microsoft.com) — Next Steps

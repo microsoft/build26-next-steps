@@ -1,4 +1,4 @@
-![Microsoft Build 2026](../img/web-banner-2040x250b.png)
+![Microsoft Build 2026](img/web-banner-2040x250b.png)
 
 # AI Skills Fest
 

@@ -4,7 +4,7 @@
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on the Windows platform and development.
 <p align="center">
-  <img src="../img/windows.png" alt="Windows" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
+  <img src="img/windows.png" alt="Windows" width="100%" height="24" style="object-fit: cover; object-position: center;"/>
 
 ## 🎯 Session Repositories
 
