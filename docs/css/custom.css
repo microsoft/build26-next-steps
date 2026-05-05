@@ -50,3 +50,19 @@ img {
   display: none;
 }
 
+/* ── Banner strips on topic pages ── */
+.md-typeset img[alt="Microsoft Build 2026"],
+.md-typeset img[alt="Skills Hub"],
+.md-typeset img[alt="Agents & Apps"],
+.md-typeset img[alt="Cloud Platform & Data"],
+.md-typeset img[alt="Developer Tools & Frameworks"],
+.md-typeset img[alt="Working with Models"],
+.md-typeset img[alt="Responsible AI"],
+.md-typeset img[alt="Windows"] {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
