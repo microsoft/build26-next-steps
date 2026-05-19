@@ -19,7 +19,7 @@ Join us online for a week of practical skill building at no cost and earn reward
 ## Grow your career with Microsoft Credentials
 
 - **Discover credentials on AI Skills Navigator:** https://aiskillsnavigator.microsoft.com/credentials
-- **Sign up to join the waitlist for the new credential** — [aka.ms/XXXXXX](https://aka.ms/XXXXXX) (coming soon)
+- **Sign up to join the waitlist for the new credential** — [aka.ms/CredentialsBuild26](https://aka.ms/CredentialsBuild26)
 
 ## Explore AI Skills Navigator
 
