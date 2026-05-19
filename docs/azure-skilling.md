@@ -38,6 +38,6 @@ Azure-focused learning plans and skilling resources to continue your Microsoft B
 
 ## Additional Resources
 
-- [Microsoft Learn](https://learn.microsoft.com/) — Free, self-paced technical learning platform
+- [Microsoft Learn](https://learn.microsoft.com/?wt.mc_id=build26-next-steps-resources) — Free, self-paced technical learning platform
 - [Azure Developer Center](https://azure.microsoft.com/develop/) — Tools, SDKs, and resources for Azure developers
-- [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/) — Reference architectures and best practices
+- [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/?wt.mc_id=build26-next-steps-resources) — Reference architectures and best practices

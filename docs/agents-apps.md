@@ -32,24 +32,24 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 ## 📚 Additional Resources
 
 ### Microsoft Agents Hub
-- [Agents Hub](https://learn.microsoft.com/agents) — Central resource for discovering and building agents with Microsoft technologies
+- [Agents Hub](https://learn.microsoft.com/agents?wt.mc_id=build26-next-steps-resources) — Central resource for discovering and building agents with Microsoft technologies
 
 ### Microsoft Foundry
-- [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/azure/foundry/agents/overview) — Overview and key capabilities of Foundry for building, testing, and deploying agents
-- [Agent development lifecycle](https://learn.microsoft.com/azure/foundry/agents/concepts/development-lifecycle) — End-to-end lifecycle from creation through production monitoring
-- [Build collaborative, multi-agent systems with Connected Agents](https://learn.microsoft.com/azure/foundry/agents/how-to/connected-agents) — Example patterns and implementation for multi-agent systems
-- [Agent identity concepts in Microsoft Foundry](https://learn.microsoft.com/azure/foundry/agents/concepts/agent-identity) — Identity and security management for agents
+- [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/azure/foundry/agents/overview?wt.mc_id=build26-next-steps-resources) — Overview and key capabilities of Foundry for building, testing, and deploying agents
+- [Agent development lifecycle](https://learn.microsoft.com/azure/foundry/agents/concepts/development-lifecycle?wt.mc_id=build26-next-steps-resources) — End-to-end lifecycle from creation through production monitoring
+- [Build collaborative, multi-agent systems with Connected Agents](https://learn.microsoft.com/azure/foundry/agents/how-to/connected-agents?wt.mc_id=build26-next-steps-resources) — Example patterns and implementation for multi-agent systems
+- [Agent identity concepts in Microsoft Foundry](https://learn.microsoft.com/azure/foundry/agents/concepts/agent-identity?wt.mc_id=build26-next-steps-resources) — Identity and security management for agents
 
 ### Copilot Studio
-- [Copilot Studio overview](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) — Low-code platform for building custom AI agents
-- [Copilot Studio and agent samples](https://learn.microsoft.com/microsoft-copilot-studio/guidance/agent-samples) — Collection of samples and learning resources for Copilot Studio
-- [Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio#build-your-own-copilot) — Guidance on selecting the right platform for your needs
+- [Copilot Studio overview](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26-next-steps-resources) — Low-code platform for building custom AI agents
+- [Copilot Studio and agent samples](https://learn.microsoft.com/microsoft-copilot-studio/guidance/agent-samples?wt.mc_id=build26-next-steps-resources) — Collection of samples and learning resources for Copilot Studio
+- [Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26-next-steps-resources#build-your-own-copilot) — Guidance on selecting the right platform for your needs
 
 ### Multi-Agent Systems & Architecture
-- [Single agent or multiple agents](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents) — Decision framework for single vs. multi-agent system design
-- [Process to build agents across your organization](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/build-secure-process) — Organizational approach to agent orchestration and secure implementation
-- [Agent system design patterns](https://learn.microsoft.com/azure/databricks/generative-ai/guide/concepts/) — Design patterns and architectural approaches for agent systems
+- [Single agent or multiple agents](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents?wt.mc_id=build26-next-steps-resources) — Decision framework for single vs. multi-agent system design
+- [Process to build agents across your organization](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/build-secure-process?wt.mc_id=build26-next-steps-resources) — Organizational approach to agent orchestration and secure implementation
+- [Agent system design patterns](https://learn.microsoft.com/azure/databricks/generative-ai/guide/concepts/?wt.mc_id=build26-next-steps-resources) — Design patterns and architectural approaches for agent systems
 
 ### Learning & Development
-- [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/training/modules/orchestrate-semantic-kernel-multi-agent-solution/) — Training module on building multi-agent solutions with Semantic Kernel SDK
-- [Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/microsoft-cloud/dev/copilot/overview) — Comprehensive guide to building Copilot solutions
+- [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/training/modules/orchestrate-semantic-kernel-multi-agent-solution/?wt.mc_id=build26-next-steps-resources) — Training module on building multi-agent solutions with Semantic Kernel SDK
+- [Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/microsoft-cloud/dev/copilot/overview?wt.mc_id=build26-next-steps-resources) — Comprehensive guide to building Copilot solutions

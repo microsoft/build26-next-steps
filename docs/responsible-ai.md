@@ -21,16 +21,16 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 ## 📚 Additional Resources
 
 ### AI Governance and Compliance
-- [Responsible AI principles](https://learn.microsoft.com/azure/ai-services/responsible-ai-overview) - Microsoft's core AI safety and fairness principles.
-- [Governance of AI applications](https://learn.microsoft.com/azure/machine-learning/concept-responsible-ai) - Policy, auditing, and compliance frameworks for AI systems.
-- [Governing open-source AI models](https://learn.microsoft.com/en-us/legal/open-source/ai-model-governance) - Licensing, compliance, and responsible use of foundation models.
+- [Responsible AI principles](https://learn.microsoft.com/azure/ai-services/responsible-ai-overview?wt.mc_id=build26-next-steps-resources) - Microsoft's core AI safety and fairness principles.
+- [Governance of AI applications](https://learn.microsoft.com/azure/machine-learning/concept-responsible-ai?wt.mc_id=build26-next-steps-resources) - Policy, auditing, and compliance frameworks for AI systems.
+- [Governing open-source AI models](https://learn.microsoft.com/en-us/legal/open-source/ai-model-governance?wt.mc_id=build26-next-steps-resources) - Licensing, compliance, and responsible use of foundation models.
 
 ### Safety and Observability
-- [Observability for AI systems](https://learn.microsoft.com/azure/well-architected/ai-patterns-ai-observability) - Tracing, monitoring, and diagnostics for agent behavior and performance.
-- [Azure AI Content Safety](https://learn.microsoft.com/azure/ai-services/content-safety/overview) - Detecting harmful content and moderating AI outputs.
-- [AI safety and abuse prevention](https://learn.microsoft.com/azure/openai/concepts/abuse-monitoring) - Safeguards for production AI applications.
+- [Observability for AI systems](https://learn.microsoft.com/azure/well-architected/ai-patterns-ai-observability?wt.mc_id=build26-next-steps-resources) - Tracing, monitoring, and diagnostics for agent behavior and performance.
+- [Azure AI Content Safety](https://learn.microsoft.com/azure/ai-services/content-safety/overview?wt.mc_id=build26-next-steps-resources) - Detecting harmful content and moderating AI outputs.
+- [AI safety and abuse prevention](https://learn.microsoft.com/azure/openai/concepts/abuse-monitoring?wt.mc_id=build26-next-steps-resources) - Safeguards for production AI applications.
 
 ### Frameworks and Integration
-- [Microsoft Foundry tools and integrations](https://learn.microsoft.com/azure/ai-studio/how-to/tools-overview) - End-to-end tooling for building and monitoring responsible AI systems.
-- [OpenTelemetry for AI applications](https://learn.microsoft.com/azure/azure-monitor/app/opentelemetry-overview) - Standard observability instrumentation for AI/ML workloads.
-- [Enterprise AI governance and deployment](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/industry/ai-governance) - Scaling AI responsibly across organizations.
+- [Microsoft Foundry tools and integrations](https://learn.microsoft.com/azure/ai-studio/how-to/tools-overview?wt.mc_id=build26-next-steps-resources) - End-to-end tooling for building and monitoring responsible AI systems.
+- [OpenTelemetry for AI applications](https://learn.microsoft.com/azure/azure-monitor/app/opentelemetry-overview?wt.mc_id=build26-next-steps-resources) - Standard observability instrumentation for AI/ML workloads.
+- [Enterprise AI governance and deployment](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/industry/ai-governance?wt.mc_id=build26-next-steps-resources) - Scaling AI responsibly across organizations.

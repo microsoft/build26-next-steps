@@ -14,5 +14,5 @@ AI Skills Fest learning programs and resources from Microsoft Build 2026.
 ## 📚 Additional Resources
 
 - [AI Skills Fest](https://aiskillsfest.com) — Official AI Skills Fest event site
-- [Microsoft Learn AI learning hub](https://learn.microsoft.com/ai/) — Central AI learning resource
-- [Azure AI documentation](https://learn.microsoft.com/azure/ai-services/) — Comprehensive AI service documentation
+- [Microsoft Learn AI learning hub](https://learn.microsoft.com/ai/?wt.mc_id=build26-next-steps-resources) — Central AI learning resource
+- [Azure AI documentation](https://learn.microsoft.com/azure/ai-services/?wt.mc_id=build26-next-steps-resources) — Comprehensive AI service documentation
