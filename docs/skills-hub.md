@@ -14,7 +14,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 			<p><a href="https://www.microsoft.com/en-us/ai/skills-fest">Register now</a></p>
 		</td>
 		<td style="vertical-align: top; width: 44%;">
-			<img src="img/build-image-1-dark.png" alt="AI Skills Fest" width="480" height="206" />
+			<img src="img/skills-hub-image-1.png" alt="AI Skills Fest" width="480" height="206" />
 		</td>
 	</tr>
 </table>
@@ -24,7 +24,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <table>
 	<tr>
 		<td style="vertical-align: top; width: 44%;">
-			<img src="img/build-image-4-light.png" alt="Microsoft Build Announcements" width="480" height="206" />
+			<img src="img/skills-hub-image-2.png" alt="Microsoft Build Announcements" width="480" height="206" />
 		</td>
 		<td style="vertical-align: top; width: 56%;">
 			<h3>Summary</h3>
@@ -44,7 +44,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 			</ul>
 		</td>
 		<td style="vertical-align: top; width: 44%;">
-			<img src="img/build-image-2-dark.png" alt="Microsoft Credentials" width="480" height="206" />
+			<img src="img/skills-hub-image-3.png" alt="Microsoft Credentials" width="480" height="206" />
 		</td>
 	</tr>
 </table>
@@ -54,7 +54,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <table>
 	<tr>
 		<td style="vertical-align: top; width: 44%;">
-			<img src="img/build-image-3-light.png" alt="AI Skills Navigator" width="480" height="206" />
+			<img src="img/skills-hub-image-4.png" alt="AI Skills Navigator" width="480" height="206" />
 		</td>
 		<td style="vertical-align: top; width: 56%;">
 			<p>AI Skills Navigator is an agentic learning space, bringing together AI, cloud, and security training into one seamless, connected skilling experience to help you build career skills.</p>
