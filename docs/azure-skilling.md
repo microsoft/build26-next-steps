@@ -29,7 +29,7 @@ Test your skills and validate your knowledge with Azure-focused skilling challen
 
 ## Code, Collaborate and Compete - Agents League Hackathon
 
-![Agents League Hackathon](img/Agents-League-Hack.png)
+[![Agents League Hackathon](img/Agents-League-Hack.png)](https://aka.ms/agentsleague/aisf)
 
 Ready for your next challenge? Put what you learn at Microsoft Build into action and compete for prizes at Agents League hackathon. Create and submit an AI agent to climb the leaderboard and compete for a total of $55,000 USD in prizes at this esports-inspired hackathon.
 
