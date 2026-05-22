@@ -6,17 +6,17 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on r
 
 <img src="img/responsible-ai.png" alt="Responsible AI" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
-## 🎯 Session Repositories
+## Session Repositories
 
-| Session | Presenters |
-| --- | --- |
-| BRK250: Govern open-source AI agents, any framework, any scale | [Sarah Bird](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775085931036001BzcI?source=/speakers), [Mehrnoosh Sameki](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775085874620001ADSc?source=/speakers) |
-| BRK251: Build secure and enterprise-ready agents with Agent 365 | [Neta Haiby](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775086106647001Jl6g?source=/speakers) |
-| BRK252: From observability to ROI for AI agents on any framework | [Sebastian Kohlmeier](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775086360974001J4XY?source=/speakers), [Filisha Shah](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995366001pNmt?source=/speakers) |
-| DEM340: Build work-ready agents with Foundry + IQ, govern with Agent 365 | [Srikumar (Sri) Nair](https://build.microsoft.com/en-US/speakers/1768245294609build26-1776362105831001L2PN?source=/speakers) |
-| DEM341: Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | [Hanchi Wang](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998317001piuN?source=/speakers), [SuiLin Yap](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284989779001pStY?source=/speakers) |
-| DEM369: Responsible AI in Action: From Principles to Real‑World Engineering | [Alexander Wachtel](https://build.microsoft.com/en-US/speakers/1768245294609build26-1760032715730001qqSb?source=/speakers) |
-| LAB540: Observe, optimize and protect your hosted agents in Microsoft Foundry | [Nitya Narasimhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756141269010001LleM?source=/speakers), [Filisha Shah](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995366001pNmt?source=/speakers) |
+| Session | Presenters | Repo | Session Page |
+| --- | --- | --- | --- |
+| Govern open-source AI agents, any framework, any scale | [Sarah Bird](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775085931036001BzcI?source=/speakers), [Mehrnoosh Sameki](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775085874620001ADSc?source=/speakers) | [Repo](https://aka.ms/build26/BRK250) | [BRK250](https://build.microsoft.com/en-US/sessions/BRK250) |
+| Build secure and enterprise-ready agents with Agent 365 | [Neta Haiby](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775086106647001Jl6g?source=/speakers) | [Repo](https://aka.ms/build26/BRK251) | [BRK251](https://build.microsoft.com/en-US/sessions/BRK251) |
+| From observability to ROI for AI agents on any framework | [Sebastian Kohlmeier](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775086360974001J4XY?source=/speakers), [Filisha Shah](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995366001pNmt?source=/speakers) | [Repo](https://aka.ms/build26/BRK252) | [BRK252](https://build.microsoft.com/en-US/sessions/BRK252) |
+| Build work-ready agents with Foundry + IQ, govern with Agent 365 | [Srikumar (Sri) Nair](https://build.microsoft.com/en-US/speakers/1768245294609build26-1776362105831001L2PN?source=/speakers) | [Repo](https://aka.ms/build26/DEM340) | [DEM340](https://build.microsoft.com/en-US/sessions/DEM340) |
+| Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | [Hanchi Wang](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998317001piuN?source=/speakers), [SuiLin Yap](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284989779001pStY?source=/speakers) | [Repo](https://aka.ms/build26/DEM341) | [DEM341](https://build.microsoft.com/en-US/sessions/DEM341) |
+| Responsible AI in Action: From Principles to Real‑World Engineering | [Alexander Wachtel](https://build.microsoft.com/en-US/speakers/1768245294609build26-1760032715730001qqSb?source=/speakers) | [Repo](https://aka.ms/build26/DEM369) | [DEM369](https://build.microsoft.com/en-US/sessions/DEM369) |
+| Observe, optimize and protect your hosted agents in Microsoft Foundry | [Nitya Narasimhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756141269010001LleM?source=/speakers), [Filisha Shah](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995366001pNmt?source=/speakers) | [Repo](https://aka.ms/build26/LAB540) | [LAB540](https://build.microsoft.com/en-US/sessions/LAB540) |
 
 ## 📚 Additional Resources
 
