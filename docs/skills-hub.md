@@ -65,6 +65,4 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 
 ## 📚 Additional Resources
 
-- [GitHub Education](https://education.github.com/) — Free developer tools for students and educators
-- [Microsoft Imagine Academy](https://www.microsoft.com/education/imagine-academy) — Technology education programs for academic institutions
-- [LinkedIn Learning](https://www.linkedin.com/learning/) — Professional development courses with Microsoft technology content
+- [GitHub Learn](#) — Continue your learning journey and gain real-world GitHub skills at your own pace
