@@ -11,7 +11,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <p>Join us online for a week of practical skill building at no cost and earn rewards as you complete content curated for your role. Powered by AI Skills Navigator - an agentic learning space.</p>
 <p><a href="https://www.microsoft.com/en-us/ai/skills-fest">Register now</a></p>
 </td>
-<td width="44%" valign="top">
+<td width="44%" valign="top" align="right">
 <img src="img/ai-skills-fest-square.png" alt="AI Skills Fest" width="150" />
 </td>
 </tr>
@@ -21,7 +21,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 
 <table>
 <tr>
-<td width="44%" valign="top">
+<td width="44%" valign="top" align="left">
 <img src="img/credentials.png" alt="Microsoft Credentials" width="150" />
 </td>
 <td width="56%" valign="top">
@@ -39,7 +39,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <p>AI Skills Navigator is an agentic learning space, bringing together AI, cloud, and security training into one seamless, connected skilling experience to help you build career skills.</p>
 <p><a href="https://aiskillsnavigator.microsoft.com">Get started</a></p>
 </td>
-<td width="44%" valign="top">
+<td width="44%" valign="top" align="right">
 <img src="img/ai-skills-navigator-square.png" alt="AI Skills Navigator" width="150" />
 </td>
 </tr>
