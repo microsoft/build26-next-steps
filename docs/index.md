@@ -23,7 +23,7 @@ Explore lab and session repositories organized by topic to engage in interactive
 
 | Resource | Description |
 | --- | --- |
-| [Azure Skilling](azure-skilling.md) | Azure-focused learning plans and skilling resources |
+| [Build Skills Challenge](build-skills-challenge.md) | Azure-focused learning plans and skilling resources |
 | [Skills Hub](skills-hub.md) | Worldwide skilling programs and learning paths |
 | [AI Skills Fest](ai-skills-fest.md) | AI Skills Fest learning programs and resources |
 | [Microsoft Marketplace](microsoft-marketplace.md) | Microsoft Marketplace resources and extensions |
