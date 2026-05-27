@@ -17,6 +17,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 | What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) | [Repo](https://aka.ms/build26/DEM346) | [DEM346](https://build.microsoft.com/en-US/sessions/DEM346) |
 | Build, deploy, and scale agents with Windows 365 | [Steven Thomas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775060213552001eZMs?source=/speakers), [T. Robert Nishi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768599320778001SufH?source=/speakers) | [Repo](https://aka.ms/build26/LAB550) | [LAB550](https://build.microsoft.com/en-US/sessions/LAB550) |
 | Inferencing Local AI Models on all Windows PCs with Windows ML | [Andrew Leader](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774285002790001pcAb?source=/speakers), Maha Bayana | [Repo](https://aka.ms/build26/OD851) | OD851 |
+| Personalize Your Windows PC with AI: Build a Copilot Skill | Samantha Song | [Repo](https://aka.ms/microsoft/Build26-OD858) | OD858 |
 
 ## 📚 Additional Resources
 
