@@ -4,7 +4,7 @@
 
 You've joined the sessions, seen the demos, and gone hands-on with the labs. Now try your new knowledge with Azure-focused skilling challenges and resources to continue your Microsoft Build 2026 journey.
 
-![Compete Learn Develop Skills](../img/hero-learning-header-v4.png)
+![Compete Learn Develop Skills](img/hero-learning-header-v4.png)
 | Challenge Name | Link | What You'll Do |
 |----------------|------|-------|
 | Azure Migration | [**Azure Migration Build Skills Challenge**](https://aka.ms/Azure_Migration/BuildSkillsChallenge) | Build the skills to migrate and modernize workloads on Azure. In this challenge, you'll learn how to use Azure Copilot, deploy and manage virtual machines, and migrate Windows, Linux, SQL Server, and VMware workloads. Gain practical experience in planning, deployment, security, and monitoring—so you can confidently move to Azure and optimize your infrastructure with AI-powered capabilities.  |
@@ -17,7 +17,7 @@ You've joined the sessions, seen the demos, and gone hands-on with the labs. Now
 
 ## Code, Collaborate and Compete - Agents League Hackathon
 
-[![Agents League Hackathon](../img/Agents-League-Hack.png)](https://aka.ms/agentsleague/aisf)
+[![Agents League Hackathon](img/Agents-League-Hack.png)](https://aka.ms/agentsleague/aisf)
 
 Ready for your next challenge? Put what you learn at Microsoft Build into action and compete for prizes at Agents League hackathon. Create and submit an AI agent to climb the leaderboard and compete for a total of $55,000 USD in prizes at this esports-inspired hackathon.
 
@@ -44,7 +44,7 @@ Submit your project by June 14, 2026, 11:59 PM Pacific Time.
 
 ## Livestreams - Connect with our Skilling Experts
 
-![Watch Live Engage On-Demand](../img/livestream-header-section-final.png)
+![Watch Live Engage On-Demand](img/livestream-header-section-final.png)
 | Title | Date | Time | Synopsis | Learn More |
 |------|------|---------------|----------|------------|
 | Agents League-Creative Apps Battle | June 9th | 9:00-10:00 am Pacific | Experts use AI-assisted development to create innovative apps. They'll demonstrate GitHub Copilot and inspire participants to apply this knowledge in their submissions. | [**🎨Creative Apps Battle**](https://aka.ms/AISF/AL-Battle1/Reg) |
