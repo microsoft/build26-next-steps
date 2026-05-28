@@ -35,7 +35,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <td valign="top">
 <h3>Grow your career with Microsoft Credentials</h3>
 <p><a href="https://aiskillsnavigator.microsoft.com/credentials?UTM_Source=BLD_Webpage&UTM_Medium=Webpage&UTM_Campaign=NextSteps">Discover credentials on AI</a></p>
-<p><a href="https://gh.io/copilot-proficiency">Join the Insider's list</a> to get exclusive early access to the Microsoft ProBadge: GitHub Copilot - powered by Verified Proficiencies</p>
+<p><a href="https://gh.io/copilot-proficiency">Join the Insider's list</a> to get exclusive updates on the new Microsoft Pro Badge: GitHub Copilot - powered by Verified Proficiencies</p>
 </td>
 <td width="200" valign="top" align="right">
 <img src="img/credentials.png" alt="Microsoft Credentials" width="200" />
