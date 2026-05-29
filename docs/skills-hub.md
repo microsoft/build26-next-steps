@@ -9,7 +9,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <td valign="top">
 <h3>Register now for AI Skills Fest!</h3>
 <p>Join us online for a week of practical skill building at no cost and earn rewards as you complete content curated for your role. Powered by AI Skills Navigator - an agentic learning space.</p>
-<p><a href="https://www.microsoft.com/en-us/ai/skills-fest">Register now</a></p>
+<p><a href="https://aka.ms/AISF_BuildNextSteps">Register now</a></p>
 </td>
 <td width="200" valign="top" align="right">
 <img src="img/ai-skills-fest-square.png" alt="AI Skills Fest" width="200" />
