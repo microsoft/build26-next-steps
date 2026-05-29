@@ -16,8 +16,8 @@ Read how Marketplace helps you build, scale, and monetize apps and agents: [aka.
 
 **Monetize with Marketplace**
 - Get tools to build and monetize your apps and agents: [aka.ms/SoftwareCompanies](https://aka.ms/SoftwareCompanies)
-- Follow step-by-step guidance on how to publish to Marketplace. [Open App Advisor](https://www.microsoft.com/en-us/software-development-companies/app-advisor)
+- Follow step-by-step guidance on how to publish to Marketplace. [Open App Advisor](https://www.microsoft.com/software-development-companies/app-advisor)
 - Become a partner to sell with Microsoft. [Enroll in MAICPP](https://partner.microsoft.com/en-US/)
-- Access credits, 1:1 technical consultations, and GTM benefits. [Sign up for ISV Success](https://www.microsoft.com/en-us/software-development-companies/offers-benefits/isv-success)
+- Access credits, 1:1 technical consultations, and GTM benefits. [Sign up for ISV Success](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success)
 - Sign up for updates on the new offer for software companies, launching this summer: [aka.ms/AppAccelerate](https://aka.ms/AppAccelerate)
 - Ask questions and learn from others. [Join the Marketplace Tech Community](https://techcommunity.microsoft.com/category/mcpp/discussions/marketplace-forum)
