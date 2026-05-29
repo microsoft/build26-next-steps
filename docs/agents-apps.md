@@ -52,6 +52,9 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 - [Copilot Studio and agent samples](https://learn.microsoft.com/microsoft-copilot-studio/guidance/agent-samples?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Collection of samples and learning resources for Copilot Studio
 - [Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26_nextstepsresources_1pevents_cnl#build-your-own-copilot) — Guidance on selecting the right platform for your needs
 
+### Microsoft Teams
+- [Microsoft Teams Platform](https://developer.microsoft.com/microsoft-teams)
+
 ### Multi-Agent Systems & Architecture
 - [Single agent or multiple agents](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Decision framework for single vs. multi-agent system design
 - [Process to build agents across your organization](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/build-secure-process?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Organizational approach to agent orchestration and secure implementation
