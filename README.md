@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
+<img src="docs/img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
 </p>
 
 # [Microsoft Build 2026](https://build.microsoft.com) — Next Steps
@@ -19,9 +19,8 @@ Microsoft Build is anchored in technical depth, developer credibility, and inter
 
 ## Skilling & Resources
 
-- [Azure Skilling](docs/azure-skilling.md) — Azure-focused learning plans
-- [Global Skilling](docs/global-skilling.md) — Worldwide skilling programs
-- [AI Skills Fest](docs/ai-skills-fest.md) — AI Skills Fest learning programs and resources
+- [Build Skills Challenge](docs/build-skills-challenge.md) — Azure-focused learning plans
+- [Skills Hub](docs/skills-hub.md) — Worldwide skilling programs
 - [Microsoft Marketplace](docs/microsoft-marketplace.md) — Microsoft Marketplace resources and extensions
 - [MVP](docs/mvp.md) — Microsoft MVP community resources
 - [Microsoft Build Info](docs/microsoft-build-info.md) — Event information and links

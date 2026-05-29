@@ -9,7 +9,7 @@ Microsoft Marketplace resources from Microsoft Build 2026.
 Read how Marketplace helps you build, scale, and monetize apps and agents: [aka.ms/MarketplaceBuildBlog2026](https://aka.ms/MarketplaceBuildBlog2026)
 
 **Build with Marketplace**
-- Deploy solutions that help you build. Visit [Marketplace.Microsoft.com](https://Marketplace.Microsoft.com)
+- Deploy solutions that help you build. Visit [Marketplace.Microsoft.com](https://www.marketplace.microsoft.com)
 - See real-world patterns for designing and scaling agents. [Attend an AI Envisioning Day](https://aka.ms/AgentToBusinessEnvisioningHub)
 - Get code templates for AI solution patterns: [aka.ms/QuickStartDevelopment](https://aka.ms/QuickStartDevelopment)
 - Read in-depth technical posts for Marketplace-ready apps and agents—from design and architecture to publishing and operations. [Uplevel your AI apps and agents.](https://techcommunity.microsoft.com/)

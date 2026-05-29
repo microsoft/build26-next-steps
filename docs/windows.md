@@ -4,30 +4,34 @@
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on the Windows platform and development.
 
+<img src="img/windows.png" alt="Windows" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+
 ## Session Repositories
 
-| Session | Presenters |
-| --- | --- |
-| BRK260: Build local AI powered experiences w/ Microsoft Foundry on Windows | [Aditi Narvekar](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995682001p4go?source=/speakers), [Anastasiya  Tarnouskaya](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774386059185001OLB7?source=/speakers) |
-| BRK261: Build and ship faster with a developer-optimized experience on Windows | [Shen  Chauhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774374356763001C1Ra?source=/speakers), Clint Rutkas |
-| BRK262: AI & Agent-Augmented coding you can trust | Kirupa  Chinnathambi |
-| DEM345: From prompt to app, build AI powered apps on Windows | Lei Xu, [Nikola  Metulev](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774886013101001R9mk?source=/speakers) |
-| DEM346: What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) |
-| LAB550: Build, deploy, and scale agents with Windows 365 | Steven  Thomas, T. Robert Nishi |
+| Session | Presenters | Repo | Session Page |
+| --- | --- | --- | --- |
+| Build Apps w/ Local AI for Unmetered Intelligence on every Windows PC | [Jordi Janer](https://build.microsoft.com/en-US/speakers/1768245294609build26-1779144962550001mXc0?source=/speakers), [Aditi Narvekar](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995682001p4go?source=/speakers), [Anastasiya Tarnouskaya](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774386059185001OLB7?source=/speakers) | [Repo](https://aka.ms/build26/BRK260) | [BRK260](https://build.microsoft.com/en-US/sessions/BRK260) |
+| Build and ship faster with a developer-optimized experience on Windows | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Kayla Cinnamon](https://build.microsoft.com/en-US/speakers/1768245294609build26-1769224980177001oYZY?source=/speakers) | [Repo](https://aka.ms/build26/BRK261) | [BRK261](https://build.microsoft.com/en-US/sessions/BRK261) |
+| AI & Agent-Augmented coding you can trust on Windows | [Kirupa Chinnathambi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284992189001pC5a?source=/speakers), [Stuart Schaefer](https://build.microsoft.com/en-US/speakers/1768245294609build26-1776972565872001qoXF?source=/speakers) | [Repo](https://aka.ms/build26/BRK262) | [BRK262](https://build.microsoft.com/en-US/sessions/BRK262) |
+| From prompt to app, build AI powered apps on Windows | [Lei Xu](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774385980999001nI1l?source=/speakers), [Nikola  Metulev](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774886013101001R9mk?source=/speakers) | [Repo](https://aka.ms/build26/DEM345) | [DEM345](https://build.microsoft.com/en-US/sessions/DEM345) |
+| What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) | [Repo](https://aka.ms/build26/DEM346) | [DEM346](https://build.microsoft.com/en-US/sessions/DEM346) |
+| Build, deploy, and scale agents with Windows 365 | [Steven Thomas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775060213552001eZMs?source=/speakers), [T. Robert Nishi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768599320778001SufH?source=/speakers) | [Repo](https://aka.ms/build26/LAB550) | [LAB550](https://build.microsoft.com/en-US/sessions/LAB550) |
+| Inferencing Local AI Models on all Windows PCs with Windows ML | [Andrew Leader](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774285002790001pcAb?source=/speakers), Maha Bayana | [Repo](https://aka.ms/build26/OD851) | OD851 |
+| Personalize Your Windows PC with AI: Build a Copilot Skill | Samantha Song | [Repo](https://aka.ms/microsoft/Build26-OD858) | OD858 |
 
-## Additional Resources
+## 📚 Additional Resources
 
 ### Windows Platform and Development
-- [Windows development overview](https://learn.microsoft.com/windows/dev-environment/) - Modern tooling and frameworks for building Windows applications.
-- [Windows Copilot and AI integration](https://learn.microsoft.com/windows/ai/overview) - Building and integrating AI features on Windows platforms.
-- [Desktop application development with .NET](https://learn.microsoft.com/dotnet/desktop/?view=netdesktop-8.0) - WPF, WinUI 3, and other frameworks for Windows apps.
+- [Windows development overview](https://learn.microsoft.com/windows/dev-environment/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Modern tooling and frameworks for building Windows applications.
+- [Windows Copilot and AI integration](https://learn.microsoft.com/windows/ai/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Building and integrating AI features on Windows platforms.
+- [Desktop application development with .NET](https://learn.microsoft.com/dotnet/desktop/?view=netdesktop-8.0&wt.mc_id=build26_nextstepsresources_1pevents_cnl) - WPF, WinUI 3, and other frameworks for Windows apps.
 
 ### AI/ML on Windows
-- [Build AI-powered apps on Windows with Microsoft Foundry](https://learn.microsoft.com/azure/ai-studio/how-to-develop-on-windows) - Local and edge AI development for Windows platforms.
-- [ONNX Runtime for inference optimization](https://learn.microsoft.com/en-us/training/modules/intro-onnx-runtime/) - Cross-platform model deployment and optimization.
-- [Windows AI with Windows.ML](https://learn.microsoft.com/windows/ai/windows-ml/) - On-device machine learning for reduced latency and privacy.
+- [Build AI-powered apps on Windows with Microsoft Foundry](https://learn.microsoft.com/windows/apps/develop/ai-assisted/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Local and edge AI development for Windows platforms.
+- [ONNX Runtime for inference optimization](https://learn.microsoft.com/windows/ai/models/get-started-onnx-winui?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Cross-platform model deployment and optimization.
+- [Windows AI with Windows.ML](https://learn.microsoft.com/windows/ai/windows-ml/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - On-device machine learning for reduced latency and privacy.
 
 ### Windows Subsystem for Linux (WSL)
-- [WSL documentation and setup](https://learn.microsoft.com/windows/wsl/) - Running Linux environments natively on Windows.
-- [Develop with WSL and VS Code](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode) - Seamless Linux development from Windows.
-- [WSL networking and performance](https://learn.microsoft.com/windows/wsl/networking) - Optimizing WSL for development workloads and container orchestration.
+- [WSL documentation and setup](https://learn.microsoft.com/windows/wsl/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Running Linux environments natively on Windows.
+- [Develop with WSL and VS Code](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Seamless Linux development from Windows.
+- [WSL networking and performance](https://learn.microsoft.com/windows/wsl/networking?wt.mc_id=build26_nextstepsresources_1pevents_cnl) - Optimizing WSL for development workloads and container orchestration.

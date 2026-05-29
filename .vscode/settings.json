@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "workbench.colorCustomizations": {
+        "editor.background": "#0d1a0d",
+        "sideBar.background": "#071007",
+        "panel.background": "#0d1a0d",
+        "tab.activeBackground": "#0d1a0d",
+        "tab.inactiveBackground": "#071007"
+    },
+    "chat.tools.terminal.autoApprove": {
+        "setopt": true,
+        "git push": true,
+        "mkdocs": true,
+        "mdfind": true,
+        "/^git ls-files docs/img \\| rg 'skills-hub-banner\\|web-banner-2040x250b\\|banner-build-26\\|build_graphic' \\|\\| true$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "true": true
+    }
+}

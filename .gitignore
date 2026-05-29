@@ -30,3 +30,4 @@ __pycache__/
 
 # MkDocs build output
 /site
+.preview/

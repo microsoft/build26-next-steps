@@ -22,7 +22,7 @@ The [Microsoft MVP Award](https://mvp.microsoft.com/) recognizes exceptional com
 ## Community Engagement
 
 - [Microsoft Reactor](https://developer.microsoft.com/reactor/) — In-person and virtual community events hosted worldwide
-- [Microsoft User Groups](https://developer.microsoft.com/community/user-groups/) — Find local developer communities
+- [Microsoft User Groups](https://developer.microsoft.com/community) — Find local developer communities
 - [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) — Student community program for future tech leaders
 - [GitHub Community](https://github.com/community) — Open-source collaboration and community discussions
 

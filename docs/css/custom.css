@@ -50,3 +50,60 @@ img {
   display: none;
 }
 
+/* ── Banner strips on topic pages ── */
+.md-typeset img[alt="Skills Hub"],
+.md-typeset img[alt="Agents & Apps"],
+.md-typeset img[alt="Cloud Platform & Data"],
+.md-typeset img[alt="Developer Tools & Frameworks"],
+.md-typeset img[alt="Responsible AI"],
+.md-typeset img[alt="Windows"] {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Keep this banner full-width at native height. */
+.md-typeset img[alt="Working with Models"] {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Ensure glightbox wrappers don't constrain topic strip banners. */
+.md-typeset a.glightbox[href$="agents-and-apps.png"],
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"],
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"],
+.md-typeset a.glightbox[href$="responsible-ai.png"],
+.md-typeset a.glightbox[href$="windows.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="agents-and-apps.png"] img,
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"] img,
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"] img,
+.md-typeset a.glightbox[href$="responsible-ai.png"] img,
+.md-typeset a.glightbox[href$="windows.png"] img {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Glightbox wraps Markdown images in inline links; make this one full-width. */
+.md-typeset a.glightbox[href$="model-training-2.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="model-training-2.png"] img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
