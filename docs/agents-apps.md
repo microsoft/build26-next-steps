@@ -51,7 +51,6 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 - [Copilot Studio overview](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Low-code platform for building custom AI agents
 - [Microsoft Copilot Studio implementation and adoption guidance](https://learn.microsoft.com/microsoft-copilot-studio/guidance/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Provides guidance for organizations to design, build, and deploy custom conversational agents using Microsoft Copilot Studio
 - [Copilot Studio and agent samples](https://learn.microsoft.com/microsoft-copilot-studio/guidance/agent-samples?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Collection of samples and learning resources for Copilot Studio
-- [Microsoft 365 Copilot Cowork (Frontier)](https://learn.microsoft.com/microsoft-365/copilot/cowork/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Copilot Cowork enhances productivity by automating routine tasks across your Microsoft 365 environment. Users must be part of the Frontier preview program to access Cowork.
 - [Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26_nextstepsresources_1pevents_cnl#build-your-own-copilot) — Guidance on selecting the right platform for your needs
 
 ### Microsoft Teams
@@ -64,10 +63,8 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
    - [Prompt suggestions](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/prompt-suggestions?wt.mc_id=build26_nextstepsresources_1pevents_cnl)
 - [Adaptive Cards](https://adaptivecards.microsoft.com/) — Create rich, interactive UI in Teams and other Microsoft platforms with declarative JSON
 
-### Multi-Agent Systems & Architecture
-- [Single agent or multiple agents](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Decision framework for single vs. multi-agent system design
-- [Process to build agents across your organization](https://learn.microsoft.com/azure/cloud-adoption-framework/ai-agents/build-secure-process?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Organizational approach to agent orchestration and secure implementation
-- [Agent system design patterns](https://learn.microsoft.com/azure/databricks/generative-ai/guide/concepts/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Design patterns and architectural approaches for agent systems
+### M365 Copilot
+- [Microsoft 365 Copilot Cowork (Frontier)](https://learn.microsoft.com/microsoft-365/copilot/cowork/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Copilot Cowork enhances productivity by automating routine tasks and projects across your Microsoft 365 environment. Users must be part of the Frontier preview program to access Cowork.
 
 ### Learning & Development
 - [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/training/modules/orchestrate-semantic-kernel-multi-agent-solution/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Training module on building multi-agent solutions with Semantic Kernel SDK
