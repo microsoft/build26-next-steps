@@ -44,11 +44,12 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 ### Microsoft Foundry
 - [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/azure/foundry/agents/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Overview and key capabilities of Foundry for building, testing, and deploying agents
 - [Agent development lifecycle](https://learn.microsoft.com/azure/foundry/agents/concepts/development-lifecycle?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — End-to-end lifecycle from creation through production monitoring
-- [Build collaborative, multi-agent systems with Connected Agents](https://learn.microsoft.com/azure/foundry-classic/agents/how-to/connected-agents?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Example patterns and implementation for multi-agent systems
+- [Connect to an A2A agent endpoint from Foundry Agent Service](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Example patterns and implementation for multi-agent systems
 - [Agent identity concepts in Microsoft Foundry](https://learn.microsoft.com/azure/foundry/agents/concepts/agent-identity?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Identity and security management for agents
 
 ### Copilot Studio
 - [Copilot Studio overview](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Low-code platform for building custom AI agents
+- [Microsoft Copilot Studio implementation and adoption guidance](https://learn.microsoft.com/microsoft-copilot-studio/guidance/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Provides guidance for organizations to design, build, and deploy custom conversational agents using Microsoft Copilot Studio
 - [Copilot Studio and agent samples](https://learn.microsoft.com/microsoft-copilot-studio/guidance/agent-samples?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Collection of samples and learning resources for Copilot Studio
 - [Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=build26_nextstepsresources_1pevents_cnl#build-your-own-copilot) — Guidance on selecting the right platform for your needs
 
