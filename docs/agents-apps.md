@@ -44,7 +44,7 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on A
 ### Microsoft Foundry
 - [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/azure/foundry/agents/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Overview and key capabilities of Foundry for building, testing, and deploying agents
 - [Agent development lifecycle](https://learn.microsoft.com/azure/foundry/agents/concepts/development-lifecycle?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — End-to-end lifecycle from creation through production monitoring
-- [Connect to an A2A agent endpoint from Foundry Agent Service](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Example patterns and implementation for multi-agent systems
+- [Connect to an A2A agent endpoint from Foundry Agent Service](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Context-sharing and communication between multiple agents
 - [Agent identity concepts in Microsoft Foundry](https://learn.microsoft.com/azure/foundry/agents/concepts/agent-identity?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Identity and security management for agents
 
 ### Copilot Studio
