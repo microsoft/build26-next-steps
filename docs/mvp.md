@@ -10,6 +10,6 @@ Follow us on [LinkedIn](https://aka.ms/mvp/LinkedIn) and [X](https://aka.ms/mvp/
 
 ## Related sessions at Microsoft Build
 
-- [So you want to become an MVP? – June 2 – In-Person](https://build.microsoft.com/en-US/sessions/DEM375)
-- [So you want to become an MVP? – June 2 – Live Broadcast](https://build.microsoft.com/en-US/sessions/LIVE176)
-- [So you want to become an MVP? – June 3 – In-Person](https://build.microsoft.com/sessions/DEM375-R1)
+- [So you want to become an MVP?](https://build.microsoft.com/en-US/sessions/DEM375) – June 2 – In-Person
+- [So you want to become an MVP?](https://build.microsoft.com/en-US/sessions/LIVE176) – June 2 – Live Broadcast
+- [So you want to become an MVP?](https://build.microsoft.com/sessions/DEM375-R1) – June 3 – In-Person

@@ -5,6 +5,7 @@
 You've joined the sessions, seen the demos, and gone hands-on with the labs. Now try your new knowledge with Azure-focused skilling challenges and resources to continue your Microsoft Build 2026 journey.
 
 ![Compete Learn Develop Skills](img/hero-learning-header-v4.png)
+
 | Challenge Name | Link | What You'll Do |
 |----------------|------|-------|
 | Azure Migration | [**Azure Migration Build Skills Challenge**](https://aka.ms/Azure_Migration/BuildSkillsChallenge) | Build the skills to migrate and modernize workloads on Azure. In this challenge, you'll learn how to use Azure Copilot, deploy and manage virtual machines, and migrate Windows, Linux, SQL Server, and VMware workloads. Gain practical experience in planning, deployment, security, and monitoring—so you can confidently move to Azure and optimize your infrastructure with AI-powered capabilities.  |
