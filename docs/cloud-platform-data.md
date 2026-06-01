@@ -4,7 +4,7 @@
 
 Explore labs, session repositories, and additional resources from Microsoft Build 2026 focused on cloud infrastructure, data platforms, and AI-powered services. 
 
-<img src="img/cloud-platform-and-data.png" alt="Cloud Platform & Data" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+<img src="../img/cloud-platform-and-data.png" alt="Cloud Platform & Data" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
 ## Session Repositories
 
