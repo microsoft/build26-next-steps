@@ -25,7 +25,7 @@ Explore labs, session repositories, and additional resources from Microsoft Buil
 
 ## 📚 Additional Resources
 
-### Microsoft Agents Hub
+### Agents Hub
 - [Agents Hub](https://learn.microsoft.com/en-us/agents/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Microsoft Learn hub for agentic computing documentation
 - [Design guidelines for agents](https://learn.microsoft.com/agents/design-guidelines/overview?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Review the design fundamentals of agents in the Microsoft ecosystem
 
@@ -53,7 +53,7 @@ Explore labs, session repositories, and additional resources from Microsoft Buil
 
 ### Agent 365
 - [Microsoft Agent 365 SDK and CLI](https://learn.microsoft.com/microsoft-agent-365/developer?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Extend agents built using any agent SDK or platform, with enterprise‑grade identity, observability, notifications, security, and governed access to Microsoft 365 data
-- [Get started with Agent 365 development](https://learn.microsoft.com/microsoft-agent-365/developer/get-started?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Choose the right type of agent and progressively enable capabilities like identity, governance, observability, and tool access
+- [Get started with Agent 365 development](https://learn.microsoft.com/microsoft-agent-365/developer/get-started?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Build the right type of agent and progressively enable capabilities like identity, governance, observability, and tool access
 
 ### Microsoft 365 Copilot extensibility
 - [Microsoft 365 Copilot Cowork (Frontier)](https://learn.microsoft.com/microsoft-365/copilot/cowork/?wt.mc_id=build26_nextstepsresources_1pevents_cnl) — Copilot Cowork enhances productivity by automating routine tasks and projects across your Microsoft 365 environment. Users must be part of the Frontier preview program to access Cowork.
