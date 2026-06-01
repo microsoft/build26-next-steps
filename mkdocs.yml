@@ -59,6 +59,7 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - tables
   - toc:
       permalink: true
       toc_depth: 2

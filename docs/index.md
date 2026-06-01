@@ -23,7 +23,7 @@ Explore lab and session repositories organized by topic to engage in interactive
 
 | Resource | Description |
 | --- | --- |
-| [Build Skills Challenge](build-skills-challenge.md) | Azure-focused learning plans and skilling resources |
+| [Build Skills Challenge](build-skills-challenge.md) | Test your Azure knowledge with these interactive challenges |
 | [Skills Hub](skills-hub.md) | Worldwide skilling programs and learning paths |
 | [Microsoft Marketplace](microsoft-marketplace.md) | Microsoft Marketplace resources and extensions |
 | [MVP](mvp.md) | Microsoft MVP community resources |

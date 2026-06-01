@@ -39,6 +39,20 @@ h3, h4, h5 {
   --md-typeset-a-color: #01a5ef;
 }
 
+/* ── Tables ── */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  vertical-align: top;
+}
+
 /* ── General ── */
 img {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);

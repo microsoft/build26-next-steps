@@ -2,7 +2,7 @@
 
 # Windows
 
-Explore the labs and session repositories from Microsoft Build 2026 focused on the Windows platform and development.
+Explore labs, session repositories, and additional resources from Microsoft Build 2026 focused on Windows platform development, including AI, apps, and developer tooling.
 
 <img src="../img/windows.png" alt="Windows" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
@@ -12,12 +12,10 @@ Explore the labs and session repositories from Microsoft Build 2026 focused on t
 | --- | --- | --- | --- |
 | Build Apps w/ Local AI for Unmetered Intelligence on every Windows PC | [Jordi Janer](https://build.microsoft.com/en-US/speakers/1768245294609build26-1779144962550001mXc0?source=/speakers), [Aditi Narvekar](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284995682001p4go?source=/speakers), [Anastasiya Tarnouskaya](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774386059185001OLB7?source=/speakers) | [Repo](https://aka.ms/build26/BRK260) | [BRK260](https://build.microsoft.com/en-US/sessions/BRK260) |
 | Build and ship faster with a developer-optimized experience on Windows | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Kayla Cinnamon](https://build.microsoft.com/en-US/speakers/1768245294609build26-1769224980177001oYZY?source=/speakers) | [Repo](https://aka.ms/build26/BRK261) | [BRK261](https://build.microsoft.com/en-US/sessions/BRK261) |
-| AI & Agent-Augmented coding you can trust on Windows | [Kirupa Chinnathambi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284992189001pC5a?source=/speakers), [Stuart Schaefer](https://build.microsoft.com/en-US/speakers/1768245294609build26-1776972565872001qoXF?source=/speakers) | [Repo](https://aka.ms/build26/BRK262) | [BRK262](https://build.microsoft.com/en-US/sessions/BRK262) |
-| From prompt to app, build AI powered apps on Windows | [Lei Xu](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774385980999001nI1l?source=/speakers), [Nikola  Metulev](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774886013101001R9mk?source=/speakers) | [Repo](https://aka.ms/build26/DEM345) | [DEM345](https://build.microsoft.com/en-US/sessions/DEM345) |
+| From prompt to app, build AI powered apps on Windows | [Lei Xu](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774385980999001nI1l?source=/speakers), [Nikola Metulev](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774886013101001R9mk?source=/speakers) | [Repo](https://aka.ms/build26/DEM345) | [DEM345](https://build.microsoft.com/en-US/sessions/DEM345) |
 | What's new in Windows Subsystem for Linux | [Craig Loewen](https://build.microsoft.com/en-US/speakers/1768245294609build26-1758133761538001NuMh?source=/speakers), [Pooja Trivedi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774284998933001poGL?source=/speakers) | [Repo](https://aka.ms/build26/DEM346) | [DEM346](https://build.microsoft.com/en-US/sessions/DEM346) |
-| Build, deploy, and scale agents with Windows 365 | [Steven Thomas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775060213552001eZMs?source=/speakers), [T. Robert Nishi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768599320778001SufH?source=/speakers) | [Repo](https://aka.ms/build26/LAB550) | [LAB550](https://build.microsoft.com/en-US/sessions/LAB550) |
+| Build, deploy, and scale agents with Windows 365 | [Steve Thomas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1775060213552001eZMs?source=/speakers), [Robert Nishi](https://build.microsoft.com/en-US/speakers/1768245294609build26-1768599320778001SufH?source=/speakers) | [Repo](https://aka.ms/build26/LAB550) | [LAB550](https://build.microsoft.com/en-US/sessions/LAB550) |
 | Inferencing Local AI Models on all Windows PCs with Windows ML | [Andrew Leader](https://build.microsoft.com/en-US/speakers/1768245294609build26-1774285002790001pcAb?source=/speakers), Maha Bayana | [Repo](https://aka.ms/build26/OD851) | OD851 |
-| Personalize Your Windows PC with AI: Build a Copilot Skill | Samantha Song | [Repo](https://aka.ms/microsoft/Build26-OD858) | OD858 |
 
 ## 📚 Additional Resources
 
