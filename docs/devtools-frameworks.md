@@ -4,7 +4,7 @@
 
 Explore the labs and session repositories from Microsoft Build 2026 focused on frameworks and developer tooling.
 
-<img src="img/developer-tools-and-frameworks-1.png" alt="Developer Tools & Frameworks" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+<img src="../img/developer-tools-and-frameworks-1.png" alt="Developer Tools & Frameworks" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
 ## Session Repositories
 
