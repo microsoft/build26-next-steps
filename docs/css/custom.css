@@ -43,7 +43,7 @@ h3, h4, h5 {
 .md-typeset table:not([class]) {
   display: table;
   width: 100%;
-  table-layout: fixed;
+  table-layout: auto;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
@@ -51,6 +51,19 @@ h3, h4, h5 {
 .md-typeset table:not([class]) td,
 .md-typeset table:not([class]) th {
   vertical-align: top;
+  white-space: normal;
+}
+
+.md-typeset table:not([class]) td:first-child,
+.md-typeset table:not([class]) th:first-child {
+  white-space: nowrap;
+  width: 1%;
+}
+
+.md-typeset table:not([class]) td:nth-child(2),
+.md-typeset table:not([class]) th:nth-child(2) {
+  white-space: nowrap;
+  width: 1%;
 }
 
 /* ── General ── */
