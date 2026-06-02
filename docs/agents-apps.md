@@ -22,6 +22,7 @@ Explore labs, session repositories, and additional resources from Microsoft Buil
 | Engineering agents that reason, act, and adapt | [Anthony Bartolo](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756137533747001aI1z?source=/speakers), [Henk Boelman](https://build.microsoft.com/en-US/speakers/1768245294609build26-1754963585693001VLHf?source=/speakers), [Gustavo Cordido](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756138101616001VtrM?source=/speakers) | [Repo](https://aka.ms/build26/LAB530) | [LAB530](https://build.microsoft.com/en-US/sessions/LAB530) |
 | From data to context: Agent‑ready knowledge with Foundry IQ | [Ayca Bas](https://build.microsoft.com/en-US/speakers/1768245294609build26-1762250455017001UQP1?source=/speakers), [Pamela Fox](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756137289765001yN8u?source=/speakers) | [Repo](https://aka.ms/build26/LAB532) | [LAB532](https://build.microsoft.com/en-US/sessions/LAB532) |
 | From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI Developers | Carlotta Castelluccio, [Nitya Narasimhan](https://build.microsoft.com/en-US/speakers/1768245294609build26-1756141269010001LleM?source=/speakers) | [Repo](https://aka.ms/build26/OD836) | [OD836](https://build.microsoft.com/en-US/sessions/OD836) |
+| AI solutions built to power industrial innovation and sovereign control | Inbal Sagiv | [Repo](https://aka.ms/build26/OD839) | [OD839](https://build.microsoft.com/en-US/sessions/OD839) |
 
 ## 📚 Additional Resources
 
