@@ -12,7 +12,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <p><a href="https://aka.ms/AISF_BuildNextSteps">Register now</a></p>
 </td>
 <td width="200" valign="top" align="right">
-<img src="../img/ai-skills-fest-square.png" alt="AI Skills Fest" width="200" />
+<img src="img/ai-skills-fest-square.png" alt="AI Skills Fest" width="200" />
 </td>
 </tr>
 </table>
@@ -20,7 +20,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <table>
 <tr>
 <td width="200" valign="top" align="left">
-<img src="../img/announcements.png" alt="Microsoft Build Announcements" width="200" />
+<img src="img/announcements.png" alt="Microsoft Build Announcements" width="200" />
 </td>
 <td valign="top">
 <h3>Check out the announcements from Microsoft Build</h3>
@@ -38,7 +38,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <p><a href="https://gh.io/copilot-proficiency">Join the Insider's list</a> to get exclusive updates on the new Microsoft Pro Badge: GitHub Copilot - powered by Verified Proficiencies</p>
 </td>
 <td width="200" valign="top" align="right">
-<img src="../img/credentials.png" alt="Microsoft Credentials" width="200" />
+<img src="img/credentials.png" alt="Microsoft Credentials" width="200" />
 </td>
 </tr>
 </table>
@@ -46,7 +46,7 @@ From Build inspiration to real-world creation – your next move starts now. Whe
 <table>
 <tr>
 <td width="200" valign="top" align="left">
-<img src="../img/ai-skills-navigator-square.png" alt="AI Skills Navigator" width="200" />
+<img src="img/ai-skills-navigator-square.png" alt="AI Skills Navigator" width="200" />
 </td>
 <td valign="top">
 <h3>Explore AI Skills Navigator</h3>

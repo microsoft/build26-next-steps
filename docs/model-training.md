@@ -4,7 +4,7 @@
 
 Explore labs, session repositories, and additional resources from Microsoft Build 2026 focused on working with AI models, including training, fine-tuning, and deploying models for real-world applications.
 
-<img src="../img/model-training-2.png" alt="Working with Models" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+<img src="img/model-training-2.png" alt="Working with Models" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
 ## Session Repositories
 

@@ -4,7 +4,7 @@
 
 Explore labs, session repositories, and additional resources from Microsoft Build 2026 focused on developer tools, frameworks, and AI-powered workflows that accelerate modern software development.
 
-<img src="../img/developer-tools-and-frameworks-1.png" alt="Developer Tools & Frameworks" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+<img src="img/developer-tools-and-frameworks-1.png" alt="Developer Tools & Frameworks" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
 ## Session Repositories
 

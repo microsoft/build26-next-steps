@@ -4,7 +4,7 @@
 
 Explore labs, session repositories, and additional resources from Microsoft Build 2026 focused on responsible AI practices, including safety, governance, compliance, and observability for AI systems.
 
-<img src="../img/responsible-ai.png" alt="Responsible AI" width="100%" height="24" style="object-fit: cover; object-position: center;" />
+<img src="img/responsible-ai.png" alt="Responsible AI" width="100%" height="24" style="object-fit: cover; object-position: center;" />
 
 ## Session Repositories
 
