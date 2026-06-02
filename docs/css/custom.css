@@ -44,8 +44,6 @@ h3, h4, h5 {
   display: table;
   width: 100%;
   table-layout: auto;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
 }
 
 .md-typeset table:not([class]) td,
@@ -54,16 +52,33 @@ h3, h4, h5 {
   white-space: normal;
 }
 
-.md-typeset table:not([class]) td:first-child,
-.md-typeset table:not([class]) th:first-child {
-  white-space: nowrap;
-  width: 1%;
+/* Compact table variant — used on build-skills-challenge */
+.md-typeset table.compact {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
 }
 
-.md-typeset table:not([class]) td:nth-child(2),
-.md-typeset table:not([class]) th:nth-child(2) {
-  white-space: nowrap;
-  width: 1%;
+.md-typeset table.compact td,
+.md-typeset table.compact th {
+  vertical-align: top;
+  padding: 0.4em 0.6em;
+  font-size: 0.8rem;
+}
+
+.md-typeset table.compact td:first-child,
+.md-typeset table.compact th:first-child {
+  width: 10%;
+}
+
+.md-typeset table.compact td:nth-child(2),
+.md-typeset table.compact th:nth-child(2) {
+  width: 12%;
+}
+
+.md-typeset table.compact td:last-child,
+.md-typeset table.compact th:last-child {
+  width: 78%;
 }
 
 /* ── General ── */
