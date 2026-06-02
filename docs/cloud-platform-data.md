@@ -28,6 +28,8 @@ Explore labs, session repositories, and additional resources from Microsoft Buil
 | Ship AI apps fast with a managed backend in Microsoft Fabric | [Chris Anderson](https://build.microsoft.com/en-US/speakers/1768245294609build26-1776706498871001Ov8x?source=/speakers), [Pratyush Rawat](https://build.microsoft.com/en-US/speakers/1768245294609build26-1777584842315001x6I9?source=/speakers) | [Repo](https://aka.ms/build26/LAB514) | [LAB514](https://build.microsoft.com/en-US/sessions/LAB514) |
 | Designing Reliable Multi‑Agent Apps with Azure Cosmos DB | Aayush Kataria, Justine Cocchi | [Repo](https://aka.ms/build26/OD820) | [OD820](https://build.microsoft.com/en-US/sessions/OD820) |
 | Build fast, not fragile with Rayfin on Microsoft Fabric | Yohan Lasorsa | [Repo](https://aka.ms/build26/OD810) | [OD810](https://build.microsoft.com/en-US/sessions/OD810) |
+| Bringing enterprise ontology directly into the developer workflow | — | [Repo](https://aka.ms/build26/OD812) | [OD812](https://build.microsoft.com/en-US/sessions/OD812) |
+| Real-time intelligence: Building event-driven AI apps and agents | — | [Repo](https://aka.ms/build26/OD819) | [OD819](https://build.microsoft.com/en-US/sessions/OD819) |
 
 ## 📚 Additional Resources
 
