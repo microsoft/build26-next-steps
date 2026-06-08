@@ -1,0 +1,155 @@
+/* Microsoft Build 2026 VisID — Custom Theme */
+
+/* ── Typography ── */
+/* Segoe UI for body, Cascadia Code for code/monospace */
+:root {
+  --md-text-font: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --md-code-font: "Cascadia Code", "Cascadia Mono", "Consolas", "Courier New", monospace;
+}
+
+body {
+  font-family: var(--md-text-font);
+}
+
+code, pre, kbd, .highlight {
+  font-family: var(--md-code-font);
+}
+
+h1, h2 {
+  font-weight: 800;
+}
+
+h3, h4, h5 {
+  font-weight: 600;
+}
+
+/* ── Build 2026 Color Palette ── */
+/* Primary: Black #000000, Light bg: #F2F2E2 */
+/* Accent: Blue #01a5ef */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #000000;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #000000;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+/* ── Tables ── */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  table-layout: auto;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  vertical-align: top;
+  white-space: normal;
+}
+
+/* Compact table variant — used on build-skills-challenge */
+.md-typeset table.compact {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.md-typeset table.compact td,
+.md-typeset table.compact th {
+  vertical-align: top;
+  padding: 0.4em 0.6em;
+  font-size: 0.8rem;
+}
+
+.md-typeset table.compact td:first-child,
+.md-typeset table.compact th:first-child {
+  width: 10%;
+}
+
+.md-typeset table.compact td:nth-child(2),
+.md-typeset table.compact th:nth-child(2) {
+  width: 12%;
+}
+
+.md-typeset table.compact td:last-child,
+.md-typeset table.compact th:last-child {
+  width: 78%;
+}
+
+/* ── General ── */
+img {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ── Light/Dark mode image switching ── */
+[data-md-color-scheme="default"] img.only-dark,
+[data-md-color-scheme="slate"] img.only-light {
+  display: none;
+}
+
+/* ── Banner strips on topic pages ── */
+.md-typeset img[alt="Skills Hub"],
+.md-typeset img[alt="Agents & Apps"],
+.md-typeset img[alt="Cloud Platform & Data"],
+.md-typeset img[alt="Developer Tools & Frameworks"],
+.md-typeset img[alt="Responsible AI"],
+.md-typeset img[alt="Windows"] {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Keep this banner full-width at fixed strip height. */
+.md-typeset img[alt="Working with Models"] {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Ensure glightbox wrappers don't constrain topic strip banners. */
+.md-typeset a.glightbox[href$="agents-and-apps-1.png"],
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"],
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"],
+.md-typeset a.glightbox[href$="responsible-ai.png"],
+.md-typeset a.glightbox[href$="windows.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="agents-and-apps-1.png"] img,
+.md-typeset a.glightbox[href$="cloud-platform-and-data.png"] img,
+.md-typeset a.glightbox[href$="developer-tools-and-frameworks-1.png"] img,
+.md-typeset a.glightbox[href$="responsible-ai.png"] img,
+.md-typeset a.glightbox[href$="windows.png"] img {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Glightbox wraps Markdown images in inline links; make this one full-width. */
+.md-typeset a.glightbox[href$="model-training-2.png"] {
+  display: block;
+  width: 100%;
+}
+
+.md-typeset a.glightbox[href$="model-training-2.png"] img {
+  display: block;
+  width: 100%;
+  height: 24px;
+  object-fit: cover;
+  object-position: center;
+}
+
+
+
